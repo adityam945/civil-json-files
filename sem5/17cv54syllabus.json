@@ -1,0 +1,34 @@
+[
+  {
+    "id": "4444",
+    "subcode": "17CV54",
+    "subname": "COMPUTER AIDED BUILDING PLANNING AND DRAWING",
+    "m1": "Module 1",
+    "m1desc":"DrawingBasics:\nSelection of scales for various drawings, thickness of lines, dimensioning, abbreviations and conventional representations as per IS: 962 Simple engineering drawings with CAD drawing tools : Lines, Circle,Arc, Polyline, Multiline, Polygon, Rectangle, Spline, Ellipse, Modify tools: Erase, Copy, Mirror, Offset, Array, Move, Rotate, Scale, Stretch, Lengthen, Trim, Extend, Break, Chamfer and Fillet, Using Text: Single line text, Multiline text, Spelling, Edit text, Special Features: View tools, Layers concept, Dimension tools, Hatching, Customising toolbars, Working with multiple drawings.",
+    "m2": "Module 2",
+    "m2desc": "Drawings Related to Different Building Elements:\nFollowing drawings are to be prepared for the data given using CAD Software a. Cross section of Foundation, masonry wall, RCC columns with isolated & combined footings. b. Different types of bonds in brick masonry   c. Different types of staircases – Dog legged, Open well d. Lintel and chajja e. RCC slabs and beams f. Cross section of a pavement g. Septic Tank and sedimentation Tank h. Layout plan of Rainwater recharging and harvesting system i. Cross sectional details of a road for a Residential area with provision for all services j. Steel truss (connections Bolted) Note: Students should sketch to dimension the above in a sketch book before doing the computer drawing.",
+    "m3": "Module 3",
+    "m3desc": "Building Drawings:\n Principles of planning, Planning regulations and building byelaws, factors affecting site selection, Functional planning of residential and public buildings, design aspects for different public buildings. Recommendations of NBC. Drawing of Plan, elevation and sectional elevation including electrical, plumbing and sanitary services using CAD software for:1. Single and Double story residential building 2. Hostel building 3. Hospital building 4. School building 5. Submission drawing (sanction drawing) of two storied residential building with access to terrace including all details and statements as per the local bye-laws Note: • Students should sketch to dimension the above in a sketch book before doing the computer drawing  • One compulsory field visit/exercise to be carried out. • Single line diagrams to be given in the examination.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
