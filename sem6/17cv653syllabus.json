@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17653",
+    "subcode": "17CV653",
+    "subname": "ALTERNATIVE BUILDING MATERIALS",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nEnergy in building materials, Environmental issues concerned to building materials, Embodied energy and life-cycle energy, Global warming and construction industry, Green concepts in buildings, Green building ratings – IGBC and LEED manuals – mandatory requirements, Rainwater  harvesting & solar passive architecture. Environmental friendly and cost effective building technologies, Requirements for buildings of different climatic regions.",
+    "m2": "Module 2",
+    "m2desc": "Elements   of   Structural   Masonry :\nElements   of   Structural   Masonry, Masonry  materials,  requirements  of  masonry  units’  characteristics  of    bricks,    stones,    clay blocks,  concrete blocks,  stone boulders, laterite   Blocks,   Fal- G   blocks   and   Stabilized mud   block. Manufacture of stabilized blocks.\nStructural  Masonry  Mortars:\nMortars, cementations  materials,  sand, natural & manufactured, types of mortars, classification of mortars as  per BIS, characteristics and requirements of mortar, selection of mortar. Uses  of  masonry,  masonry  bonding,  Compressive  strength  of  masonry  elements, Factors affecting compressive strength, Strength of Prisms/wallets and walls, Effect of brick bond on strength,  Bond  strength  of  masonry:  Flexure  and  shear,  Elastic properties of masonry materials  and  masonry, Design of masonry compression elements subjected to axial load.",
+    "m3": "Module 3",
+    "m3desc": "Alternative Building Materials:\nLime, Pozzolana cements, Raw materials, Manufacturing process, Properties and uses.  Fibers- metal and synthetic, Properties and applications.  Fiber reinforced plastics, Matrix materials, Fibers organic and synthetic, Properties and applications.  Building  materials from agro  and  industrial  wastes ,Types  of  agro  wastes,  Types  of  industrial  and  mine  wastes, Properties and applications. Masonry blocks using industrial wastes. Construction and demolition wastes.",
+    "m4": "Module 4",
+    "m4desc": "Alternative Building Technologies:\nUse  of  arches  in  foundation,  alternatives  for  wall  constructions, composite  masonry, confined  masonry,  cavity  walls,  rammed  earth,  Ferro  cement  and  ferroconcrete  building components, Materials  and  specifications,  Properties,  Construction  methods,  Applications.  Top down construction, Mivan Construction Technique.Alternative Roofing Systems:\nConcepts, Filler slabs, Composite  beam  panel  roofs,  Masonry vaults and domes.",
+    "m5": "Module 5",
+    "m5desc": "Equipment for Production of Alternative Materials:\nMachines for manufacture of concrete, Equipments for production of stabilized blocks, Moulds and methods of production of precast elements, Cost concepts in buildings, Cost saving techniques in planning, design and construction, Cost analysis: Case studies using alternatives.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
