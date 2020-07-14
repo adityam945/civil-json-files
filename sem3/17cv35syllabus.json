@@ -1,0 +1,38 @@
+[
+  {
+    "id": "010",
+    "subcode": "17CV35",
+    "subname": "Engineering Geology",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nApplication of Earth Science in Civil Engineering Practices, Understanding the earth, internal structure and composition.\nMineralogy:\nMineral properties, composition and their  use  in the manufacture of construction materials-Quartz Group (Glass); Feldspar Group (Ceramic wares and Flooring tiles); Kaolin (Paper, paint and textile); Asbestos (AC sheets); Carbonate Group (Cement) ; Gypsum (POP, gypsum sheets, cement); Mica Group (Electrical industries); Ore minerals - Iron ores (Steel); Chromite (Alloy); Bauxite (aluminum); Chalcopyrite (copper)",
+    "m2": "Module 2",
+    "m2desc": "Petrology:\nFormation, Classification and  Engineering Properties. Rock as  construction material, concrete aggregate, railway ballast, roofing, flooring, cladding and foundation. Deformation of rocks, Development of Joints, Folds, Faults and Unconformities. Their impact in the selection of sites for Dams, Reservoirs, Tunnels, Highways and Bridges,  Rock Quality Determination (RQD), Rock Structure Rating (RSR),: Igneous Rocks-Granite, Gabbro, Dolerite,  Basalt; Sedimentary rocks - Sandstone, Shale, Limestone, Laterite; Metamorphic rocks - Gneiss, Quartzite, Slate, Charnockite: Decorative stones - Porphyries, Marble and Quartzite.",
+    "m3": "Module 3",
+    "m3desc": "Geomorphology and Seismology\nLandforms – Classification, Rock weathering, types and its effects on Civil Engineering Projects.Study of Geo-morphological aspects in the selection of sites for Dams, Reservoirs, Tunnels, Highways and Bridges. Watershed management, Floods and their control, River valley, Drainage pattern – parameters and development; Coastlines and their engineering considerations. Earthquake - Causes and Effects,, Seismic waves, Engineering problems related to Earthquakes, Earthquake intensity, Richter Scale, Seismograph, Seismic zones- World and India, Tsunami – causes and effects. Early warning system. Reservoir Induced Seismicity; Landslides – causes and their control.",
+    "m4": "Module 4",
+    "m4desc": "Hydrogeology\nHydrological  cycle, Occurrence of Groundwater in different terrains -Weathered, Hard and Stratified rocks;  Determination of Quality aspects - SAR, RSC and TH of Groundwater. Groundwater Pollution, Groundwater Exploration- Electrical Resistivity and Seismic methods, Resistivity curves, Water Bearing Formations, Aquifer types and parameters -  Porosity, Specific yield and retention,  Permeability, Transmissibility and Storage Coefficient. Springs and Artesian Wells, Artificial Recharging of Groundwater, Sea water intrusion and remedies.",
+    "m5": "Module 5",
+    "m5desc": "Geodesy:\nStudy of Topographic maps and Contour maps; Remote Sensing – Concept, Application and its Limitations; Geographic Information System (GIS) and Global Positioning System (GPS) – Concept and their use resource mapping. LANDSAT Imagery – Definition and its use. Impact of Mining, Quarrying and Reservoirs on Environment. Natural Disasters and their mitigation.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
