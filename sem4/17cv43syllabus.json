@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0008",
+    "subcode": "17CV43",
+    "subname": " Applied Hydraulics ",
+    "m1": "Module 1",
+    "m1desc": "Dimensional analysis:\nDimensional analysis and similitude: Dimensional homogeneity, Non Dimensional parameter, Rayleigh methods and Buckingham π theorem, dimensional analysis, choice of variables, examples on various applications.\nModel analysis:\nModel analysis, similitude, types of similarities, force ratios, similarity laws, model classification, Reynolds model, Froude’s model, Euler’s Model, Webber’s model, Mach model, scale effects, Distorted models. Numerical problems on Reynold’s, and Froude’s Model.Buoyancy and Flotation\nBuoyancy, Force and Centre of Buoyancy, Metacentre and Metacentric height, Stability of submerged and floating bodies, Determination of Metacentric height, Experimental and theoretical method, Numerical problems ",
+    "m2": "Module 2",
+    "m2desc": "Uniform Flow:\nIntroduction, Classification of flow through channels, Chezy’s and Manning’s equation for flow through open channel, Most economical channel sections, Uniform flow through Open channels, Numerical Problems.Specific Energy and Specific energy curve, Critical flow and corresponding critical parameters, Metering flumes, Numerical Problems.",
+    "m3": "Module 3",
+    "m3desc": "Non-Uniform Flow:\nHydraulic Jump, Expressions for conjugate depths and Energy loss, Numerical Problems.Gradually varied flow, Equation, Back water curve and afflux,  Description of water curves or profiles, Mild, steep, critical, horizontal and adverse slope profiles, Numerical problems, Control sections.",
+    "m4": "MOdule 4",
+    "m4desc": "Hydraulic Machines:\nIntroduction Impulse-Momentum equation.Direct impact of a jet on a stationary and moving curved vanes,Introduction to concept of velocity triangles,impact of jet on a series of curved vanes- Problems.Turbines–Impulse Turbines\nIntroduction to turbines, General lay out of a hydro-electric plant, Heads and Efficiencies, classification of turbines. Pelton wheel-components, working principle and velocity triangles. Maximum power, efficiency, working proportions – Numerical problems.",
+    "m5": "Module 5",
+    "m5desc": "Reaction Turbines and Pumps\nRadial flow reaction turbines: (i) Francis turbine- Descriptions, working proportions and design, Numerical problems. (ii) Kaplan turbine- Descriptions, working proportions and design, Numerical problems. Draft tube theory and unit quantities. (No problems)  Centrifugal pumps: Components and Working of centrifugal pumps, Types of centrifugal pumps, Work done by the impeller, Heads and Efficiencies, Minimum starting speed of centrifugal pump, Numerical problems, Multi-stage pumps.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
