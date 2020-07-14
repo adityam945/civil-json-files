@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17652",
+    "subcode": "17CV652",
+    "subname": "MATRIX METHOD OF  STRUCTURAL ANALYSIS",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nStructural systems, geometric and material non-linearity, principle of superposition, equilibrium and compatibility conditions, static and kinematic indeterminacy, principle of minimum potential energy and minimum complementary energy, concepts of stiffness and flexibility, flexibility and stiffness matrices of beam and truss elements.",
+    "m2": "Module 2",
+    "m2desc": "Element Flexibility Method:\nForce transformation matrix, global flexibility matrix, analysis of continuous beams, rigid frames and trusses.",
+    "m3": "Module 3",
+    "m3desc": "Element Stiffness Method:\nDisplacement transformation matrix, global stiffness matrix, analysis of continuous beams, rigid frames and trusses.",
+    "m4": "Module 4",
+    "m4desc": "Effects of Temperature Changes and Lack of Fit:\nRelated numerical problems by flexibility and stiffness method as in Module 2 and Module 3.",
+    "m5": "Module 5",
+    "m5desc": "Direct Stiffness Method:\nLocal and global coordinates systems, principle of contra gradience, global stiffness matrices of beam and truss elements, analysis of continuous beams and trusses.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
