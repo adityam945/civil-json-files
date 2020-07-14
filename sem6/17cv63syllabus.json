@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1763",
+    "subcode": "17CV63",
+    "subname": "HIGHWAY ENGINEERING",
+    "m1": "Module 1",
+    "m1desc": "Principles of Transportation Engineering:\nImportance of transportation, Different modes of transportation and comparison, Characteristics of road transport  Jayakar committee recommendations, and implementation – Central Road Fund, Indian Roads Congress, Central Road Research Institute.\nHighway Development and Planning:\nRoad types and classification, road patterns, planning surveys, master plan – saturation system of road planning, phasing road development in India, problems on best alignment among alternate proposals Salient Features of 3rd and 4thtwenty year road development plans and Policies, Present scenario of road development in India (NHDP & PMGSY) and in Karnataka (KSHIP & KRDCL) Road development plan - vision 2021.",
+    "m2": "Module 2",
+    "m2desc": "Highway Alignment and Surveys:\nIdeal Alignment, Factors affecting the alignment, Engineering surveys-Map study, Reconnaissance, Preliminary and Final location & detailed survey, Reports and drawings for new and re-aligned projects.\nHighway Geometric Design:\nCross sectional elements–width, surface, camber, Sight distances–SSD, OSD, ISD, HSD, Design of horizontal and vertical alignment–curves, super-elevation, widening, gradients, summit and valley curves",
+    "m3": "Module 3",
+    "m3desc": "Pavement Materials:\nSubgrade soil - desirable properties-HRB soil classificationdetermination of CBR and modulus of subgrade reaction with Problems Aggregates- Desirable properties and tests, Bituminous materials-Explanation on Tar, bitumen, cutback and emulsion-tests on bituminous material.Pavement Design:\nPavement types, component parts of flexible and rigid pavements and their functions, ESWL and its determination (Graphical method only)-Examples",
+    "m4": "Module 4",
+    "m4desc": "Pavement Construction:\nDesign of soil aggregate mixes by Rothfuch’s method. Uses and properties of bituminous mixes and cement concrete in pavement construction.Earthwork; cutting and Filling, Preparation of subgrade, Specification and construction of i) Granular Sub base, ii) WBM Base, iii) WMM base, iv) Bituminous Macadam, v) Dense Bituminous Macadam vi) Bituminous Concrete, vii) Dry Lean Concrete sub base and PQC viii) concrete roads ",
+    "m5": "Module 5",
+    "m5desc": "Highway Drainage:\nSignificance and requirements, Surface drainage system and design-Examples, sub surface drainage system, design of filter materials, Types of cross drainage structures, their choice and location.Highway Economics:\nHighway user benefits, VOC using charts only-Examples, Economic analysis - annual cost method-Benefit Cost Ratio method-NPV-IRR methods- Examples, Highway financing-BOT-BOOT concepts",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
