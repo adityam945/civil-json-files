@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6666",
+    "subcode": "17CV552",
+    "subname": "RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS",
+    "m1": "Module 1",
+    "m1desc": "Railway Planning:\nSignificance of Road, Rail, Air and Water transports – Coordination of all modes to achieve sustainability – Elements of permanent way – Rails, Sleepers, Ballast, rail fixtures and fastenings, – Track Stress, coning of wheels, creep in rails, defects in rails – Route alignment surveys, conventional and modern methods- – Soil suitability analysis – Geometric design of railways, gradient, super elevation, widening of gauge on curves- Points and Crossings.",
+    "m2": "Module 2",
+    "m2desc": "Railway Construction and Maintenance:\nEarthwork – Stabilization of track on poor soil, Calculation of Materials required for track laying – Construction and maintenance of tracks – Modern methods of construct ion & maintenance – Railway stations and yards and passenger amenities- Urban rail – Infrastructure for Metro, Mono and underground railways.",
+    "m3": "Module 3",
+    "m3desc": "Harbour and Tunnel Engineering:\nDefinition of Basic Terms: Planning and Design of Harbours: Requirements, Classification, Location and Design Principles – Harbour Layout and Terminal Facilities , Coastal Structures, Inland Water Transport – Wave action on Coastal Structures and Coastal Protection Works.Tunneling: Introduction, size and shape of the tunnel, tunneling methods in soils, tunnel lining, tunnel drainage and ventilation.",
+    "m4": "Module 4",
+    "m4desc": "Airport Planning:\nAir transport characteristics, airport classification, air port planning:   objectives, components, layout characteristics, and socioeconomic characteristics of the catchment area, criteria for airport site selection and ICAO stipulations, typical airport layouts, Parking and circulation area.",
+    "m5": "Module 5",
+    "m5desc": "Airport Design:\nRunway Design: Orientation, Wind Rose Diagram, Runway length, Problems on basic and Actual Length, Geometric design of runways, Configuration and Pavement Design Principles, Elements of Taxiway Design, Airport Zones, Passenger Facilities and Services, Runway and Taxiway Markings and lighting.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
