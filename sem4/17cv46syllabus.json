@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0011",
+    "subcode": "17CV46",
+    "subname": "Advanced Surveying",
+    "m1": "Module 1",
+    "m1desc": "Curve Surveying:\nCurves – Necessity – Types, Simple curves, Elements,  Designation of curves, Setting out simple curves by linear methods (numerical problems on offsets from long chord & chord produced method), Setting out curves by Rankines deflection angle method (numerical problems). Compound curves, Elements, Design of compound curves, Setting out of compound curves (numerical problems). Reverse curve between two parallel straights (numerical problems on Equal radius and unequal radius). Transition curves Characteristics , numerical problems on Length of Transition curve, 7.5 Vertical curves –Types – (theory).",
+    "m2": "Module 2",
+    "m2desc": "Geodetic Surveying and Theory of Errors:\nGeodetic Surveying: Principle and Classification of triangulation system, Selection of base line and stations, Orders of triangulation, Triangulation figures, Reduction to Centre, Selection and marking of stations Theory of Errors: Introduction, types of errors, definitions, laws of accidental errors, laws of weights, theory of least squares, rules for giving weights and distribution of errors to the field observations, determination of the most probable values of quantities.",
+    "m3": "Module 3",
+    "m3desc": "Introduction to Field Astronomy:\nEarth, celestial sphere, earth and celestial coordinate systems, spherical triangle, astronomical triangle, Napier’s rule.",
+    "m4": "Module 4",
+    "m4desc": "Aerial Photogrammetry:\nIntroduction, Uses, Aerial photographs, Definitions, Scale of vertical and tilted photograph (simple problems), Ground Co-ordinates (simple problems),  Relief Displacements (Derivation), Ground control, Procedure of aerial survey, overlaps and mosaics,Stereoscopes, Derivation Parallax(Derivation).",
+    "m5": "Module 5",
+    "m5desc": "Modern Surveying Instruments:\nIntroduction, Electromagnetic spectrum, Electromagnetic distance measurement, Total station, Lidar scanners for topographical survey. Remote Sensing: Introduction, Principles of energy interaction in atmosphere and earth surface features, Image interpretation techniques, visual interpretation. Digital image processing, Global Positioning system Geographical Information System: Definition of GIS, Key Components of GIS, Functions of GIS, Spatial data, spatial information system Geospatial analysis, Integration of Remote sensing and GIS and Applications in Civil Engineering(transportation, town planning).",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
