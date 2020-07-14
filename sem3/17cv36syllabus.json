@@ -1,0 +1,38 @@
+[
+  {
+    "id": "011",
+    "subcode": "17CV36",
+    "subname": " Building Materials and Construction ",
+    "m1": "Module 1",
+    "m1desc": "Building Materials:\nStone as building material; Requirement of good building stones, Dressing of stones, Deterioration and Preservation of stone work. Bricks; Classification, Manufacturing of clay bricks, Requirement of good bricks. Field and laboratory tests on bricks; compressive strength, water absorption, efflorescence, dimension and warpage. Cement Concrete blocks, Stabilized Mud Blocks, Sizes, requirement of good blocks. Mortar: types and requirements. Timber as construction material Fine aggregate: Natural and manufactured: Sieve analysis, zoning, specify gravity, bulking, moisture content, deleterious materials. Coarse aggregate: Natural and manufactured: Importance of size, shape and texture. Grading of aggregates, Sieve analysis, specific gravity, Flakiness and elongation index, crushing, impact and abrasion tests.",
+    "m2": "Module 2",
+    "m2desc": "Foundation:\nPreliminary investigation of soil, safe bearing capacity of soil, Function and requirements of good foundation , types of foundation , introduction to spread, combined , strap, mat and pile foundation.\nMasonry:\nDefinition and terms used in masonry. Brick masonry, characteristics and requirements of good brick masonry, Bonds in brick work, Header, Stretcher, English, Flemish bond, Stone masonry, Requirements of good stone masonry, Classification, characteristics of different stone masonry, Joints in stone masonry. Types of walls; load bearing, partition walls, cavitywalls.",
+    "m3": "Module 3",
+    "m3desc": "Lintels and Arches:\nDefinition, function and classification of lintels, Balconies, chejja and canopy. Arches; Elements and Stability of an Arch.\nFloors and roofs:\nFloors:\nRequirement of good floor, Components of ground floor, Selection of flooring material, Laying of Concrete, Mosaic, Marble, Granite, Tile flooring, Cladding of tiles.\nRoof:\nRequirement of good roof, Types of roof, Elements of a pitched roof, Trussed roof, King post Truss, Queen Post Truss, Steel Truss, Different roofing materials, R.C.C.Roof.",
+    "m4": "Module 4",
+    "m4desc": "Doors, Windows and Ventilators\nLocation of doors and windows, technical terms, Materials for doors and windows, Paneled door, Flush door, Collapsible door, Rolling shutter, PVC Door, Paneled and glazed Window, Bay Window, French window. Ventilators. Sizes as per IS recommendations.\nStairs:\nDefinitions, technical terms and types of stairs, Requirements of good stairs. Geometrical design of RCC doglegged and open-well stairs.\nFormwork:\nIntroduction to form work, scaffolding, shoring, under pinning.",
+    "m5": "Module 5",
+    "m5desc": "Plastering and Pointing:\npurpose, materials and methods of plastering and pointing, defects in plastering-Stucco plastering, lathe plastering.Damp proofing-\ncauses, effects and methods.Paints-\nPurpose, types, ingredients and defects.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
