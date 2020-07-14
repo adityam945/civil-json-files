@@ -1,0 +1,39 @@
+[
+  {
+    "id": "007",
+    "subcode": "17CV32",
+    "subname": "Strength of Materials",
+    "m1": "Module 1",
+    "m1desc": "Simple Stresses and Strain:\nIntroduction, Definition and concept and of stress and strain. Hooke’s law, Stress-Strain diagrams for ferrous and non-ferrous materials, factor of safety, Elongation of tapering bars of circular and rectangular cross sections, Elongation due to self- weight. Saint Venant’s principle, Compound bars, Temperature stresses, Compound section subjected to temperature stresses, state of simple shear, Elastic constants and their relationship.",
+    "m2": "Module 2",
+    "m2desc": "Compound Stresses:\nIntroduction, state of stress at a point, General two dimensional stress system, Principal stresses and principal planes. Mohr’s circle of stresses. Thin and Thick Cylinder\nIntroduction, Thin cylinders subjected to internal pressure; Hoop stresses, Longitudinal stress and change in volume. Thick cylinders subjected to both internal and external pressure; Lame’s equation, radial and hoop stress distribution.",
+    "m3": "Module 3",
+    "m3desc": "Shear Force and Bending Moment in Beams:\nIntroduction to types of beams, supports and loadings. Definition of bending moment and shear force, Sign conventions, relationship between load intensity, bending moment and shear force. Shear force and bending moment diagrams for statically determinate beams subjected to points load, uniformly distributed loads, uniformly varying loads, couple and their combinations.",
+    "m4": "Module 4",
+    "m4desc": "Torsion in Circular Shaft:\nIntroduction, pure torsion, Assumptions, derivation of torsion equation for circular shafts, torsional rigidity and polar modulus Power transmitted by a shaft, combined bending and torsion.\nTheories of Failure:\nIntroduction, maximum principal stress theory (Rankine’s theory), Maximum shearing stress theory (Tresca’s theory), Strain energy theory (Beltrami and Haigh), and maximum strain theory (St. Venant’s theory).",
+    "m5": "Module 5",
+    "m5desc": "Bending and Shear Stresses in Beams:\nIntroduction, pure bending theory, Assumptions, derivation of bending equation, modulus of rupture, section modulus, flexural rigidity. Expression for transverse shear stress in beams, Bending and shear stress distribution diagrams for circular, rectangular, ‘I’, and ‘T’ sections.  Shear centre(only concept).Columns and Struts:\nIntroduction, short and long columns. Euler’s theory; Assumptions, Derivation for Euler’s Buckling load for different end conditions, Limitations of Euler’s theory. Rankine-Gordon’s formula for columns.",
+
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
