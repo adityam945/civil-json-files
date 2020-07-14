@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17651",
+    "subcode": "17CV651",
+    "subname": "SOLID WASTE MANAGEMENT",
+    "m1": "Module 1",
+    "m1desc": "Sources:\nSources of Solid waste, Types of solid waste, Physical and Chemical composition of municipal solid waste. Generation rate, Numerical Problems. Collection: Collection of solid waste- services and systems, equipments,   Transportation:  Need of transfer operation, transfer station, transport means and methods, route optimization. Solid waste management 2000 rules with, 2016 amendments.",
+    "m2": "Module 2",
+    "m2desc": "Processing techniques:\nPurpose of processing, Chemical volume reduction (incineration) – Process description, 3T’s, principal components in the design of municipal incinerators, Air pollution control ,Mechanical volume reduction (compaction), Mechanical size reduction (shredding), component separation (manual and mechanical methods). ",
+    "m3": "Module 3",
+    "m3desc": "Composting Aerobic and anaerobic method :\nprocess description, process microbiology,  design consideration, Mechanical composting, Vermicomposting, Numerical Problems.  Sanitary landfilling: Definition, advantages and disadvantages, site selection, methods, reaction occurring in landfill-    Gas and Leachate movement, Control of gas and leachate movement,   Design of sanitary landfill.  Numerical Problems",
+    "m4": "Module 4",
+    "m4desc": " Sources, collection, treatment  and disposal of :-\nBiomedical  waste ,E-waste ,Hazardous waste  and  construction waste.",
+    "m5": "Module 5",
+    "m5desc": "Incineration -3Ts factor affecting  incineration ,types  of incinerations , Pyrolsis ,design  criteria for incineration  Energy  recovery  technique  from  solid waste management.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
