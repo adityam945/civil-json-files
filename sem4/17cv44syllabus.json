@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0009",
+    "subcode": "17CV44",
+    "subname": "Concrete Technology",
+    "m1": "Module 1",
+    "m1desc": "Concrete Ingredients:\nCement – Cement manufacturing process, steps to reduce carbon footprint, chemical composition and their importance, hydration of cement, types of cement. Testing of cement.  Fine aggregate: Functions, requirement, Alternatives to River sand, M-sand introduction and manufacturing. Coarse aggregate: Importance of size, shape and texture. Grading and blending of aggregate. Testing on aggregate, requirement.  Recycled aggregates  Water – qualities of water. Chemical admixtures – plasticizers, accelerators, retarders and air entraining agents. Mineral admixtures – Pozzolanic and cementitious materials, Fly ash, GGBS, silica fumes, Metakaolin and rice husk ash.",
+    "m2": "Module 2",
+    "m2desc": "Fresh Concrete:\nWorkability-factors affecting workability. Measurement of workability–slump, Compaction factor and Vee-Bee Consistometer tests, flow tests. Segregation and bleeding. Process of manufacturing of concrete- Batching, Mixing, Transporting, Placing and Compaction. Curing – Methods of curing – Water curing, membrane curing, steam curing, accelerated curing, selfcuring. Good and Bad practices of making and using fresh concrete and  Effect of heat of hydration during mass concreting at project sites.",
+    "m3": "Module 3",
+    "m3desc": "Hardened Concrete:\nFactors influencing strength, W/C ratio, gel/space ratio, Maturity concept, Testing of hardened concrete, Creep –factors affecting creep. Shrinkage of concrete – plastic shrinking and drying shrinkage, Factors affecting shrinkage. Definition and significance of durability. Internal and external factors influencing durability, Mechanisms- Sulphate attack – chloride attack, carbonation, freezing and thawing. Corrosion, Durability requirements as per IS-456, Insitu testing of concrete- Penetration and pull out test, rebound hammer test, ultrasonic pulse velocity, core extraction – Principal, applications and limitations.",
+    "m4": "Module 4",
+    "m4desc": "Concrete Mix Proportioning\nConcept of Mix Design with and without admixtures, variables in proportioning and Exposure conditions, Selection criteria of ingredients used for mix design, Procedure of mix proportioning. Numerical Examples of Mix Proportioning using IS-10262",
+    "m5": "Module 5",
+    "m5desc": "Special Concretes\nRMC- manufacture and requirement as per QCI-RMCPCS, properties, advantages and disadvantages. Self-Compacting concrete- concept, materials, tests, properties, application and typical mix Fiber reinforced concrete - Fibers types, properties, application of FRC. Light weight concrete-material properties and types. Typical light weight concrete mix and applications",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
