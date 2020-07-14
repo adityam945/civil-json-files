@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3333",
+    "subcode": "17CV53",
+    "subname": "APPLIED GEOTECHNICAL ENGINEERING",
+    "m1": "Module 1",
+    "m1desc": "Soil Exploration:\nIntroduction, Objectives and Importance, Stages and Methods of exploration- Test pits, Borings, Geophysical methods, stabilization of boreholes, Sampling techniques, Undisturbed, disturbed and representative samples, Geophysical exploration and Bore hole log. Drainage and Dewatering methods, estimation of depth of GWT (Hvorslev’s method).",
+    "m2": "Module 2",
+    "m2desc": "Stress in Soils:\nIntroduction, Boussinesq’s and Westergaard’s theory concentrated load, circular and rectangular load, equivalent point load method, pressure distribution diagrams and contact pressure, Newmark’s chart Foundation Settlement - Approximate method for stress distribution on a horizontal plane, Types of settlements and importance, Computation of immediate and consolidation settlement.",
+    "m3": "Module 3",
+    "m3desc": "Lateral Earth Pressure:\nActive, Passive and earth pressure at rest, Rankine’s theory for cohesionless and cohesive soils, Coulomb’s theory, Rebhann’s and Culmann’s graphical construction.Stability of Slopes :\n Assumptions, infinite and finite slopes, factor of safety, use of Taylor’s stability charts, Swedish slip circle method for C and C-ø (Method of slices) soils, Fellineous method for critical slip circle.",
+    "m4": "Module 4",
+    "m4desc": "Bearing Capacity of Shallow Foundation:\nTypes of foundations, determination of bearing capacity by Terzaghi’s and BIS method (IS: 6403), Effect of water table and eccentricity, field methods - plate load test and SPT Proportioning of shallow foundations- isolated and combined footings (only two columns).",
+    "m5": "Module 5",
+    "m5desc": "Pile Foundations:\nTypes and classification of piles, single loaded pile capacity in cohesionless and cohesive soils by static formula, efficiency of file group, group capacity of piles in cohesionless and cohesive soils, negative skin friction, pile load tests, Settlement of piles, under reamed piles (only introductory concepts – no derivation).",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
