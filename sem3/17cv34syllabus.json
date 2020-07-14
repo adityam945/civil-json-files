@@ -1,0 +1,38 @@
+[
+  {
+    "id": "009",
+    "subcode": "17CV34",
+    "subname": "Basic Surveying",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nDefinition of surveying, Objectives and importance of surveying. Classification of surveys. Principles of surveying. Units of measurements, Surveying measurements and errors, types of errors, precision and accuracy. Classification of maps, map scale, conventional symbols, topographic maps, map layout, Survey of India Map numbering systems. Measurement of Horizontal Distances:\nMeasuring tape and types. Measurement using tapes, Taping on level ground and sloping ground. Errors and corrections in tape measurements, ranging of lines, direct and indirect methods of ranging, Electronic distance measurement, basic principle. Booking of tape survey work, Field book, entries, Conventional symbols, Obstacles in tape survey, Numerical problems.",
+    "m2": "Module 2",
+    "m2desc": "Measurement of Directions and Angles: Compass survey:\nBasic definitions; meridians, bearings, magnetic and True bearings. Prismatic and surveyor’s compasses, temporary adjustments, declination. Quadrantal bearings, whole circle bearings, local attraction and related problems.Theodolite Survey and Instrument Adjustment:\nTheodolite and types, Fundamental axes and parts of Transit theodolite, uses of theodolite, Temporary adjustments of transit theodolite, measurement of horizontal and vertical angles, step by step procedure for obtaining permanent adjustment of Transit theodolite.",
+    "m3": "Module 3",
+    "m3desc": "Traversing:\nTraverse Survey and Computations: Latitudes and departures, rectangular coordinates, Traverse  adjustments, Bowditch rule and transit rule, Numerical Problems.\nTacheometry:\nbasic principle, types of tacheometry, distance equation for horizontal and inclined line of sight in fixed hair method, problems.",
+    "m4": "Module 4",
+    "m4desc": "Leveling:\nBasic terms and definitions, Methods of leveling, Dumpy level, auto level, digital and laser levels. Curvature and refraction corrections. Booking and reduction of levels. Differential leveling, profile leveling, fly leveling, check leveling, reciprocal leveling, trigonometric leveling (heights and distances-single plane and double plane methods.",
+    "m5": "Module 5",
+    "m5desc": "Areas and Volumes:\nMeasurement of area – by dividing the area into geometrical figures, area from offsets, mid ordinate rule, trapezoidal and Simpson’s one third rule, area from co-ordinates, introduction to planimeter, digital planimeter. Measurement of volumes-trapezoidal and prismoidal formula.\nContouring:\nContours, Methods of contouring, Interpolation of contours, contour gradient, characteristics of contours and uses.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
