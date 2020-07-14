@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1764",
+    "subcode": "17CV64",
+    "subname": "WATER SUPPLY  AND TREATMENT ENGINEERING",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nNeed for protected water supply. Demand of Water: Types of water demands -domestic demand, industrial, institutional and commercial, public use, fire demand, Factors affecting per capita demand, Variations in demand of water, Peak factor, Design period and factors governing design period.  Different methods of population forecasting -with merits and demerits. Numerical Problems.",
+    "m2": "Module 2",
+    "m2desc": "Water Treatment:\nObjectives, Treatment flow chart – significance  of each unit  Sources and Characteristics: surface and subsurface sources -suitability with regard to quality and quantity. Sampling - Objectives, methods, Preservation techniques.  Water quality characteristics: Physical, Chemical and Microbiological.",
+    "m3": "Module 3",
+    "m3desc": "Sedimentation -theory, settling tanks, types, design. Concept of Plate and Tube settlers. Coagulation aided sedimentation-types of coagulants, chemical feeding, flash mixing, Clarriflocculators . Filtration: mechanism -theory of filtration, types of filters, slow sand, rapid sand and pressure filters including construction, operation, cleaning. Operational problems in filters. Design of slow and rapid sand filter without under drainage system.   Ultra and micro filtration: Basic principles, membrane materials, pore size, flux, normalizing permeability, fouling mechanism, Overview of ultra and micro filtration elements and systems, Fouling in MF/UF systems, fouling control and pre treatment.",
+    "m4": "Module 4",
+    "m4desc": "Softening: Overview of Lime soda, Zeolite process, RO and Nano filtration: Basic principles, Flux, Salt passage, rejection and concentration polarization. Overview of RO and nano filtration membranes and elements, Conventional pre treatment techniques for RO and nano filtration.  Disinfection: Methods of disinfection with merits and demerits, Theory of disinfection, emphasis on treatment of water for community bathing. (melas and fairs) Fluoridation and De-fluoridation.",
+    "m5": "Module 5",
+    "m5desc": "Collection and Conveyance of water: Intake structures - types of intakes –Factors to be considered in selection of intake structures. \nPumps: Types of pumps with working principles. Numerical Problems. \nPipes: Design of the economical diameter for the rising main; Numerical Problems. Pipe appurtenances, Valves, Fire hydrants Pipe materials: Different materials with advantages and disadvantages. Factors affecting selection of pipe material. Distribution system: Methods- Gravity, Pumping, Combined gravity and pumping system, Service reservoirs and their capacity determination. Visit to Intake structure, Water treatment plant and report working of each unit  Design of water treatment plant units and distribution system with population forecasting for the given city .",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
