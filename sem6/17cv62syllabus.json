@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1762",
+    "subcode": "17CV62",
+    "subname": "DESIGN OF STEEL STRUCTURAL ELEMENTS",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nAdvantages and Disadvantages of Steel Structures, Limit state method Limit State of Strength, Structural Stability, Serviceability Limit states, Failure Criteria of steel, Design Consideration, Loading and load combinations, IS code provisions, Specification and Section classification.\nPlastic Behaviour of Structural Steel:\nIntroduction, Plastic theory, Plastic Hinge Concept, Plastic collapse load, load factor, Shape factor, Theorem of plastic collapse, Methods of Plastic analysis, Plastic analysis of Continuous Beams.",
+    "m2": "Module 2",
+    "m2desc": "Bolted Connections:\nIntroduction, Types of Bolts, Behaviour of bolted joints, Design of High Strength friction Grip(HSFG) bolts, Design of Simple bolted Connections (Lap and Butt joints).\nWelded Connections:\nIntroduction, Types and properties of welds, Effective areas of welds, Weld Defects, Simple welded joints for truss member,  Advantages and Disadvantages of Bolted and Welded Connections.",
+    "m3": "Module 3",
+    "m3desc": "Design of Compression Members:\nIntroduction, Failure modes, Behaviour of compression members, Sections used for compression members, Effective length of compression members, Design of compression members and built up Compression members, Design of Laced and Battened Systems.",
+    "m4": "Module 4",
+    "m4desc": "Design of Tension Members:\nIntroduction, Types of Tension members, Slenderness ratio, Modes of Failure, Factors affecting the strength of tension members, Design of Tension members and Lug angles, Splices, Gussets.Design of Column Bases:\nDesign of Simple Slab Base and Gusseted Base.",
+    "m5": "Module 5",
+    "m5desc": "Design of Beams:\nIntroduction, Beam types, Lateral Stability of beams, factors affecting lateral stability, Behaviour of Beams in Bending, Design strength of laterally supported beams in Bending, Design of Laterally unsupported Beams [No Numerical Problems], Shear Strength of Steel Beams. Beam to Beam Connections, Beam to Column Connection and Column Splices [No Numerical Problems].",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
