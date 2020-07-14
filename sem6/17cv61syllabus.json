@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1761",
+    "subcode": "17CV61",
+    "subname": "CONSTRUCTION MANAGEMENT AND ENTREPRENEURSHIP",
+    "m1": "Module 1",
+    "m1desc": "Management:\nCharacteristics of management,  functions of management, importance and purpose of planning process, types of plans.Construction Project Formulation:\nIntroduction to construction management, project organization, management functions, management styles.Construction Planning and Scheduling:\nIntroduction, types of project plans, work breakdown structure,  Grant Chart,  preparation of network diagram- event and activity based and its critical path-critical path method, concept of activity on arrow and activity on node.",
+    "m2": "Module 2",
+    "m2desc": "Resource Management:\nBasic concepts of resource management, class of labour, Wages & statutory requirement, Labour Production rate or Productivity, Factors affecting labour output or productivity.Construction Equipments:\nclassification of construction equipment, estimation of productivity for: excavator, dozer, compactors, graders and dumpers. Estimation of ownership cost, operational and maintenance cost of construction equipments.  Selection of construction equipment and basic concept on equipment  maintenance.Materials:\n material management functions, inventory management.",
+    "m3": "Module 3",
+    "m3desc": "Construction Quality , safety and Human Values:\nConstruction quality process, inspection, quality control and quality assurance, cost of quality, ISO standards. Introduction to concept of Total Quality Management.HSE:\nIntroduction to concepts of HSE as applicable to Construction. Importance of safety in construction , Safety measures to be taken during  Excavation , Explosives ,  drilling and blasting , hot bituminous works , scaffolds / platforms / ladder , form work and equipment operation.   Storage of materials. Safety through legislation, safety campaign. Insurances.\nEthics:\nMorals, values and ethics, integrity, trustworthiness , work ethics, need of engineering ethics,  Professional Duties, Professional and Individual Rights, Confidential and Proprietary Information, Conflict of Interest Confidentiality, Gifts and Bribes, Price Fixing, Whistle Blowing.",
+    "m4": "Module 4",
+    "m4desc": "Introduction to engineering economy :\nPrinciples of engineering economics, concept on Micro and macro analysis, problem solving and decision making.\nInterest and time value of money:\nconcept of simple and compound interest, interest formula for: single payment, equal payment and uniform gradient series. Nominal and effective interest rates, deferred annuities, capitalized cost.Comparison of alternatives :\nPresent worth, annual equivalent , capitalized  and rate of return methods , Minimum Cost analysis and break even analysis.",
+    "m5": "Module 5",
+    "m5desc": "Entrepreneurship:\nEvolution of the concept, functions of an entrepreneur, concepts of entrepreneurship, stages in entrepreneurial process, different sources of finance for entrepreneur, central and state level financial institutions.Micro, Small & Medium Enterprises (MSME):\ndefinition, characteristics, objectives, scope, role of MSME in economic development, advantages of MSME, Introduction to different schemes: TECKSOK, KIADB, KSSIDC, DIC, Single Window Agency: SISI, NSIC, SIDBI, KSFC.Business Planning Process:\nBusiness planning process, marketing plan, financial plan, project report and feasibility study, guidelines for preparation of model project report for starting a new venture.  Introduction to international entrepreneurship opportunities , entry into international business , exporting , direct foreign investment , venture capital.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
