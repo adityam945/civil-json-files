@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2222",
+    "subcode": "17CV52",
+    "subname": "ANALYSIS OF INDETERMINATE STRUCTURES",
+    "m1": "Module 1",
+    "m1desc": "Slope Deflection Method:\nIntroduction, sign convention, development of slope deflection equation, analysis of continuous beams including settlements, Analysis of orthogonal rigid plane frames including sway frames with kinematic indeterminacy≤3.",
+    "m2": "Module 2",
+    "m2desc": "Moment Distribution Method:\nIntroduction, Definition of terms, Development of method, Analysis of continuous beams with support yielding, Analysis of 08 Hours orthogonal rigid plane frames including sway frames with kinematic indeterminacy ≤3.",
+    "m3": "Module 3",
+    "m3desc": "Kani’s Method:\nIntroduction, Concept, Relationships between bending moment and deformations, Analysis of continuous beams with and without settlements, Analysis of frames with and without sway.",
+    "m4": "Module 4",
+    "m4desc": "Matrix Method of Analysis ( Flexibility Method):\nIntroduction, Axes and coordinates, Flexibility matrix, Analysis of continuous beams and plane trusses using system approach, Analysis of simple orthogonal rigid frames using system approach with static indeterminacy ≤3.",
+    "m5": "Module 5",
+    "m5desc": "Matrix Method of Analysis (Stiffness Method):\nIntroduction, Stiffness matrix, Analysis of continuous beams and plane trusses using system approach, Analysis of simple orthogonal rigid frames using system approach with kinematic indeterminacy ≤3.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
