@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0010",
+    "subcode": "17CV45",
+    "subname": "Basic Geotechnical Engineering ",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nIntroduction, origin and formation of soil, Phase Diagram, phase relationships, definitions and their inter relationships. Determination of Index properties-Specific gravity, water content, in-situ density and particle size analysis (sieve and sedimentation analysis) Atterberg’s Limits, consistency indices, relative density, activity of clay, Plasticity chart, unified and BIS soil classification.",
+    "m2": "Module 2",
+    "m2desc": "Soil Structure and Clay Mineralogy:\nSingle grained, honey combed, flocculent and dispersed structures, Valence bonds, Soil-Water system, Electrical diffuse double layer, adsorbed water, base-exchange capacity, Isomorphous substitution. Common clay minerals in soil and their structures- Kaolinite, Illite and Montmorillonite and their application in Engineering.\nCompaction of Soils:\nDefinition, Principle of compaction, Standard and Modified proctor’s compaction tests, factors affecting compaction, effect of compaction on soil properties, Field compaction control - compactive effort & method of compaction, lift thickness and number of passes, Proctor’s needle, Compacting equipments and their suitability.",
+    "m3": "Module 3",
+    "m3desc": "Flow through Soils:\nDarcy’s law- assumption and validity, coefficient of permeability and its determination (laboratory and field), factors affecting permeability, permeability of stratified soils, Seepage velocity,superficial velocity and coefficient of percolation, Capillary Phenomena.\nSeepage Analysis:\nLaplace equation, assumptions, limitations and its derivation. Flow nets- characteristics and applications. Flow nets for sheet piles and below the dam section. Unconfined flow, phreatic line (Casagrande’s method –with and without toe filter), flow through dams, design of dam filters.\nEffective Stress Analysis:\nGeostatic stresses, Effective stress concept-total stress, effective stress and Neutral stress and impact of the effective stress in construction of structures, quick sand phenomena.",
+    "m4": "Module 4",
+    "m4desc": "Consolidation of Soil:\nDefinition, Mass-spring analogy, Terzaghi’s one dimensional consolidation theory - assumption and limitations. Derivation of Governing differential Equation Pre-consolidation pressure and its determination by Casagrande’s method. Over consolidation ratio, normally consolidated, under consolidated and over consolidated soils.Consolidation characteristics of soil (Cc, av, mv and Cv. Laboratory one dimensional consolidation test, characteristics of  e-log(σ’) curve, Determination of consolidation characteristics of soilscompression index and coefficient of consolidation (square root of time fitting method, logarithmic time fitting method). Primary and secondary consolidation.",
+    "m5": "Module 5",
+    "m5desc": "Shear Strength of Soil:\nConcept of shear strength, Mohr–Coulomb Failure Criterion, Modified Mohr–Coulomb Criterion Concept of pore pressure, Total and effective shear strength parameters, factors affecting shear strength of soils. Thixotrophy and sensitivity, Measurement of shear strength parameters - Direct shear test, unconfined compression test, triaxial compression test and field Vane shear test, Test under different drainage conditions. Total and effective stress paths.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
