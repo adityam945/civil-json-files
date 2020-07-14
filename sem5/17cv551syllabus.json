@@ -1,0 +1,28 @@
+[
+  {
+    "id": "5555",
+    "subcode": "17CV551",
+    "subname": "AIR POLLUTION AND CONTROL",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nDefinition, Sources, classification and characterization of air pollutants. Effects of air pollution on health, vegetation & materials. Types of inversion, photochemical smog.",
+    "m2": "Module 2",
+    "m2desc":"Meteorology:\nTemperature lapse rate & stability, wind velocity & turbulence, plume behavior, measurement of meteorological variables, wind rose diagrams, Plume Rise, estimation of effective stack height and mixing depths. Development of air quality models-Gaussian dispersion model.",
+    "m3": "Module 3",
+    "m3desc": "Sampling:\nSampling of particulate and gaseous pollutants (Stack, Ambient & indoor air pollution), Monitoring and analysis of air pollutants (PM2.5, PM10, SOX, NOX, CO, NH3).",
+    "m4": "Module 4",
+    "m4desc": "Control Techniques:\nParticulate matter and gaseous pollutants- settling chambers, cyclone separators, scrubbers, filters & ESP.",
+    "m5": "Module 5",
+    "m5desc": "Air pollution due to automobiles, standards and control methods. Noise pollution causes, effects and control, noise standards. Environmental issues, global episodes, laws, acts, protocols.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
