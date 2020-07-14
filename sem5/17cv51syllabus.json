@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1111",
+    "subcode": "17CV51",
+    "subname": "DESIGN OF RC STRUCTURAL ELEMENTS",
+    "m1": "Module 1",
+    "m1desc": "Introduction to Limit State Design and Serviceability:\nIntroduction to working stress method, Difference between Working stress and Limit State Method of design, Modular Ratio and Factor of Safety.  Philosophy and principle of limit state design with assumptions. Partial Safety factors, Characteristic load and strength. Stress block parameters, concept of balanced section, under reinforced and over reinforced section. Limiting deflection, short term deflection, long term deflection, Calculation of deflection of singly reinforced beam only. Cracking in reinforced concrete members, calculation of crack width of singly reinforced beam. Side face reinforcement, slender limits of beams for stability.",
+    "m2": "Module 2",
+    "m2desc": "Limit State Analysis of Beams:\nAnalysis of singly reinforced, doubly reinforced and flanged beams for flexure and shear.",
+    "m3": "Module 3",
+    "m3desc": "Kani’s Method:\nIntroduction, Concept, Relationships between bending moment and deformations, Analysis of continuous beams with and without settlements, Analysis of frames with and without sway.",
+    "m4": "Module 4",
+    "m4desc": "Matrix Method of Analysis ( Flexibility Method):\nIntroduction, Axes and coordinates, Flexibility matrix, Analysis of continuous beams and plane trusses using system approach, Analysis of simple orthogonal rigid frames using system approach with static indeterminacy ≤3.",
+    "m5": "Module 5",
+    "m5desc": "Matrix Method of Analysis (Stiffness Method):\nIntroduction, Stiffness matrix, Analysis of continuous beams and plane trusses using system approach, Analysis of simple orthogonal rigid frames using system approach with kinematic indeterminacy ≤3.",
+    "descname": "Prescribed text books",
+
+    "descdata": "",
+
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+    "notesscreenname": "NotesListFile",
+
+    "notesscreenparams": "",
+
+    "qpscreentype": "QPaperListFile",
+
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+    "qpscreenparams": "",
+
+    "qbscreentype": "QBankListFile",
+
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+
+    "qbscreenparams": ""
+  }
+]
