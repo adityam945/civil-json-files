@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17654",
+    "subcode": "17CV654",
+    "subname": "GROUND IMPROVEMENT TECHNIQUES",
+    "m1": "Module 1",
+    "m1desc": "Formation and Development of Ground:\nIntroduction, Formation of Rock, soil and soil profile,  Soil distribution in India,  Alterations of ground after formation, Reclaimed soils, Natural offshore deposits;Ground Improvement Potential – Hazardous ground conditions, poor ground conditions, favourable ground conditions, Alternative Approaches, Geotechnical processes.\nCompaction:\nIntroduction, compaction mechanics, Field procedure, surface compaction, Dynamic Compaction, selection of field compaction procedures, compaction quality control.",
+    "m2": "Module 2",
+    "m2desc": "Drainage Methods:\nIntroduction, Seepage, filter requirements, ground water and seepage control, methods of dewatering systems, Design of dewatering system including pipe line effects of dewatering. Drains, different types of drains.Pre-compression and Vertical Drains:\nImportance, Vertical drains, Sand drains, Drainage of slopes, Electro kinetic dewatering, Preloading.",
+    "m3": "Module 3",
+    "m3desc": "Chemical Modification-I:\nDefinition, cement stabilization, sandwich technique, admixtures. Hydration – effect of cement stabilization on permeability, Swelling and shrinkage and strength and deformation characteristics. Criteria for cement stabilization. Stabilization using Fly ash.\nChemical Modification-II:\nLime stabilization – suitability, process, criteria for lime stabilization. Other chemicals like chlorides, hydroxides, lignin and hydrofluoric acid. Properties of chemical components, reactions and effects. Bitumen, tar or asphalt in stabilization.",
+    "m4": "Module 4",
+    "m4desc": "Vibration Methods:\nIntroduction, Vibro compaction – blasting,  vibratory probe,  Vibro  displacement compaction – displacement piles, vibroflotation,  sand compaction piles, stone columns,  heavy tamping.\nGROUTING AND INJECTION: Introduction, Effect of grouting. Chemicals and materials used. Types of grouting. Grouting procedure, Applications of grouting.",
+    "m5": "Module 5",
+    "m5desc": "Geosynthetics:\nIntroduction,  Geosynthetic types,  properties of  Geosynthetics – materials and fibre properties, Geometrical aspects mechanical properties,Hydraulic  properties, Durability;Applications of Geosynthetics-Separation,Filtration and Fluid Transmission,  Reinforcement.\nMiscellaneous Methods (Only Concepts & Uses):\nSoil reinforcement, Thermal methods, Ground improvement by confinement – Crib walls, Gabions and Mattresses, Anchors, Rock bolts and soil nailing. Stone Column, Micro piles.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
