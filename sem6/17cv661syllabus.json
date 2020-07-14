@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17661",
+    "subcode": "17CV661",
+    "subname": "WATER RESOURCES MANAGEMENT",
+    "m1": "Module 1",
+    "m1desc": "Surface and Ground water Resources:\nHydrologic Cycle, Global water resources and Indian Water resources, Surface Water Resources, Water Balance, Available Renewable Water Resources, Water Scarcity, The Water Balance as a Result of Human Interference, Groundwater Resources, Types of Aquifers, Groundwater as a Storage Medium.",
+    "m2": "Module 2",
+    "m2desc": "Water Resources Planning and Management:\nNecessity, System components, planning scales, Approaches, planning and management aspects, Analysis, Models for impact prediction and evaluation, Adaptive Integrated Policies, Post Planning and management Issues.",
+    "m3": "Module 3",
+    "m3desc": "Integrated Water Resources Management:\nDefinition of IWRM, Principles, Implementation of IWRM, Legislative and Organizational Framework, Types and Forms of Private Sector Involvement.",
+    "m4": "Module 4",
+    "m4desc": "Water Governance and Water Policy:\nLegal Framework of Water – Substance of National Water Laws – Other key issues – Changing incentives through Regulation - National Water Policy – National-Level Commissions – Irrigation Management Transfer Policies and Activities – Legal Registration of WUAs – Legal Changes in Water Allocation, – Role of Local Institutions – Community Based Organizations – Water Policy Reforms: India.",
+    "m5": "Module 5",
+    "m5desc": "Water Harvesting and Conservation: Water Harvesting Techniques – Micro-catchments - Design of Small Water Harvesting Structures – Farm Ponds – Percolation Tanks – Yield from a Catchment, Rain water Harvesting-various techniques related to Rural and Urban area.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
