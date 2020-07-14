@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17664",
+    "subcode": "17CV664",
+    "subname": "FINITE ELEMENT METHOD",
+    "m1": "Module 1",
+    "m1desc": "Theory of elasticity concepts,  Energy principles, Rayleigh - Ritz Method, Galerkin method and finite element method,  steps in finite element analysis, displacement approach, stiffness matrix and boundary conditions.",
+    "m2": "Module 2",
+    "m2desc": "Discritisation; finite representation of infinite bodies and discritisation of very large bodies, Natural Coordinates , Shape functions; polynomial, LaGrange and Serendipity , one dimensional formulations; beam and truss with numerical examples.",
+    "m3": "Module 3",
+    "m3desc": "2D formulations; Constant Strain Triangle, Linear Strain Triangle, 4 and 8 noded quadrilateral elements, Numerical Evaluation of Element Stiffness -Computation of Stresses,  Static Condensation of nodes, degradation technique, Axisymmetric Element.",
+    "m4": "Module 4",
+    "m4desc": "Isoparametric concepts; isoparametric, sub parametric and super parametric elements, Jacobian transformation matrix, Stiffness Matrix of Isoparametric Elements, Numerical integration by Gaussian quadrature rule for  one, two and three dimensional problems",
+    "m5": "Module 5",
+    "m5desc": "Techniques to solve nonlinearities in structural systems; material, geometric and combined non linearity, incremental and iterative techniques. Structure of computer program for FEM analysis, description of different modules, exposure to FEM softwares.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "https://adityam945.github.io/civil-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "https://adityam945.github.io/civil-json-files/",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "https://adityam945.github.io/civil-json-files/",
+    "qbscreenparams": ""
+  }
+]
