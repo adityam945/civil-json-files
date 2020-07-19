@@ -1,0 +1,394 @@
+[
+    {
+      "beanchname": "CIVIL ENGINEERING",
+      "semdata": [
+        {
+          "id": "1790",
+          "disabled": "disabled",
+          "semname": "Semester 3",
+          "labno": "2",
+          "subjno": "6",
+          "subdata": [
+          {
+            "subj": "1.Engineering Mathematics-III"
+          },
+          {
+            "subj": "2.Strength Of Materials"
+          },
+          {
+            "subj": "3.Fluid Mechanics"
+          },
+          {
+            "subj": "4.Basic Surveying"
+          },
+          {
+            "subj": "5.Engineering Geology"
+          },
+          {
+            "subj": "6.Building Materials and Construction"
+          },
+          {
+            "subj": "1.Building Material Testing Laboratory"
+          },
+          {
+            "subj": "2.Basic Surveying Practice"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+
+        "qbscreenparams": ""
+      },
+
+      {
+        "id": "2",
+
+        "disabled": "disabled",
+
+        "semname": "Semester 4",
+
+        "labno": "2",
+
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics-IV"
+          },
+          {
+            "subj": "2.Analysis Of Determinate Structure"
+          },
+          {
+            "subj": "3.Applied Hydraulics"
+          },
+          {
+            "subj": "4.Concrete Technology"
+          },
+          {
+            "subj": "5.Basic Geotechnical Engineering"
+          },
+          {
+            "subj": "6.Advanced Surveying"
+          },
+          {
+            "subj": "1.Fluid Mechanics Laboratory"
+          },
+          {
+            "subj": "2.Engineering Geology Laboratory"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+
+        "qbscreenparams": ""
+      },
+
+      {
+        "id": "3",
+        "disabled": "disabled",
+        "semname": "Semester 5",
+        "labno": "2",
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.DESIGN OF RC STRUCTURAL ELEMENTS "
+          },
+          {
+            "subj": "2.ANALYSIS OF INDETERMINATE STRUCTURES"
+          },
+          {
+            "subj": "3.APPLIED GEOTECHNICAL ENGINEERING"
+          },
+          {
+            "subj": "4.COMPUTER AIDED BUILDING PLANNING AND DRAWING"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.AIR POLLUTION AND CONTROL "
+          },
+          {
+            "subj": "ii.RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS"
+          },
+          {
+            "subj": "iii.MASONRY STRUCTURES "
+          },
+          {
+            "subj": "iv.THEORY OF  ELASTICITY "
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.TAFFIC ENGINEERING "
+          },
+          {
+            "subj": "ii.SUSTAINABILITY CONCEPTS IN ENGINEERING "
+          },
+          {
+            "subj": "iii.REMOTE SENSING AND GIS "
+          },
+          {
+            "subj": "iv.OCCUPATIONAL HEALTH AND SAFETY "
+          },
+          {
+            "subj": "1.GEOTECHNICAL ENGINEERING LAB "
+          },
+          {
+            "subj": "2.CONCRETE AND HIGHWAY MATERIALS LABORATORY "
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+
+        "syllabusscreenparams": "",
+
+        "notesscreentype": "NotesListSubjFile",
+
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+
+        "notesscreenparams": "",
+
+        "qpscreentype": "QPaperListSubjsFile",
+
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+
+        "qpscreenparams": "",
+
+        "qbscreentype": "QBankListSubjsFile",
+
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+
+        "qbscreenparams": ""
+      },
+      {
+        "id": "4",
+        "disabled": "disabled",
+        "semname": "Semester 6",
+        "labno": "2",
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.CONSTRUCTION MANAGEMENT AND ENTREPRENEURSHIP"
+          },
+          {
+            "subj": "2.DESIGN OF STEEL STRUCTURAL ELEMENTS"
+          },
+          {
+            "subj": "3.HIGHWAY ENGINEERING"
+          },
+          {
+            "subj": "4.WATER SUPPLY  AND TREATMENT ENGINEERING"
+          },
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.SOLID WASTE MANAGEMENT"
+          },
+          {
+            "subj": "ii.MATRIX METHOD OF  STRUCTURAL ANALYSIS"
+          },
+          {
+            "subj": "iii.ALTERNATIVE BUILDING MATERIALS"
+          },
+          {
+            "subj": "iv.GROUND IMPROVEMENT TECHNIQUES"
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.WATER RESOURCES MANAGEMENT "
+          },
+          {
+            "subj": "ii.ENVIRONMENTAL PROTECTION AND MANAGEMENT"
+          },
+          {
+            "subj": "iii.NUMERICAL METHODS AND APPLICATIONS"
+          },
+          {
+            "subj": "iv.FINITE ELEMENT METHOD"
+          },
+          {
+            "subj": "1.SOFTWARE APPLICATION LAB"
+          },
+          {
+            "subj": "2.EXTENSIVE SURVEY PROJECT /CAMP"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+        "syllabusscreenparams": "",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "5",
+        "disabled": "disabled",
+        "semname": "Semester 7",
+        "labno": "2",
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.MUNICIPAL AND INDUSTRIAL  WASTE WATER ENGINEERING"
+          },
+          {
+            "subj": "2.DESIGN OF RCC AND STEEL STRUCTURES"
+          },
+          {
+            "subj": "3.HYDROLOGY AND IRRIGATION ENGINEERING"
+          },
+
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i. DESIGN OF BRIDGES "
+          },
+          {
+            "subj": "ii.GROUND WATER & HYDRAULICS "
+          },
+          {
+            "subj": "iii.DESIGN CONCEPT OF BUILDING SERVICES"
+          },
+          {
+            "subj": "iv.STRUCTURAL DYNAMICS "
+          },
+          {
+            "subj": "OPEN ELECTIVE-2"
+          },
+          {
+            "subj": "i.URBAN TRANSPORTATION AND PLANNING  "
+          },
+          {
+            "subj": "ii.PREFABRICATED STRUCTURES "
+          },
+          {
+            "subj": "iii.REHABILITATION AND RETROFITTING OF STRUCTURES"
+          },
+          {
+            "subj": "iv.REINFORCED EARTH STRUCTURES"
+          },
+          {
+            "subj": "1.ENVIRONMENTAL ENGINEERING LABORATORY"
+          },
+          {
+            "subj": "2.COMPUTER AIDED DETAILING OF STRUCTURES"
+          }
+        ],
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+        "syllabusscreenparams": "",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "6",
+        "disabled": "disabled",
+        "semname": "Semester 8",
+        "labno": "2",
+        "subjno": "6",
+
+        "subdata": [
+          {
+            "subj": "1.QUANTITY SURVEYING AND CONTRACTS MANAGEMENT"
+          },
+          {
+            "subj": "2.DESIGN OF PRE STRESSED CONCRETE ELEMENTS"
+          },
+
+          {
+            "subj": "PROFESSIONAL ELECTIVE-1"
+          },
+          {
+            "subj": "i.EARTHQUAKE ENGINEERING"
+          },
+          {
+            "subj": "ii.HYDRAULIC STRUCTURES"
+          },
+          {
+            "subj": "iii.PAVEMENT DESIGN"
+          },
+          {
+            "subj": "iv.ADVANCED FOUNDATION DESIGN"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/civil-json-files/",
+        "syllabusscreenparams": "",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/civil-json-files/",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/civil-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/civil-json-files/",
+        "qbscreenparams": ""
+      }
+    ]
+  }
+]
