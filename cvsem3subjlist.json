@@ -27,27 +27,27 @@
       {
         "subj": "Basic Surveying",
         "subcode": "17CV34",
-        "subjparams": ""
+        "subjparams": "sem3/17cv34syllabus.json"
       },
       {
         "subj": "Engineering Geology",
         "subcode": "17CV35",
-        "subjparams": ""
+        "subjparams": "sem3/17cv35syllabus.json"
       },
       {
         "subj": "Building Materials and Construction",
         "subcode": "17CV36",
-        "subjparams": ""
+        "subjparams": "sem3/17cv36syllabus.json"
       },
       {
         "subj": "Building Materials Testing Laboratory",
         "subcode": "17CVL37",
-        "subjparams": ""
+        "subjparams": "sem3/17cv37syllabus.json"
       },
       {
         "subj": "Basic Surveying Practice",
         "subcode": "17CVL38",
-        "subjparams": ""
+        "subjparams": "sem3/17cv38syllabus.json"
       }
     ]
   }
