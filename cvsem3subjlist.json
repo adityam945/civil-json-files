@@ -17,7 +17,7 @@
       {
         "subj": "Strength of Materials",
         "subcode": "17CV32",
-        "subjparams": ""
+        "subjparams": "sem3/17cv32syllabus.json"
       },
       {
         "subj": "Fluid Mechanics",
