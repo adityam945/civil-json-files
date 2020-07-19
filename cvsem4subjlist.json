@@ -1,0 +1,54 @@
+[
+  {
+    "semno": "Semester 3",
+    "branchname": "CIVIL ENGINEERING",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+
+    "url": "https://adityam945.github.io/civil-json-files/",
+
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-III",
+        "subcode": "17MAT31",
+        "subjparams": ""
+      },
+      {
+        "subj": "Strength of Materials",
+        "subcode": "17CV32",
+        "subjparams": ""
+      },
+      {
+        "subj": "Fluid Mechanics",
+        "subcode": "17CV33",
+        "subjparams": ""
+      },
+      {
+        "subj": "Basic Surveying",
+        "subcode": "17CV34",
+        "subjparams": ""
+      },
+      {
+        "subj": "Engineering Geology",
+        "subcode": "17CV35",
+        "subjparams": ""
+      },
+      {
+        "subj": "Building Materials and Construction",
+        "subcode": "17CV36",
+        "subjparams": ""
+      },
+      {
+        "subj": "Building Materials Testing Laboratory",
+        "subcode": "17CVL37",
+        "subjparams": ""
+      },
+      {
+        "subj": "Basic Surveying Practice",
+        "subcode": "17CVL38",
+        "subjparams": ""
+      }
+    ]
+  }
+]
