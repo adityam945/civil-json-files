@@ -1,0 +1,53 @@
+[
+  {
+    "semno": "Semester 4",
+    "branchname": "CIVIL ENGINEERING",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/civil-json-files/",
+
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-IV",
+        "subcode": "17CV41",
+        "subjparams": ""
+      },
+      {
+        "subj": "Analysis of Determinate Structures",
+        "subcode": "17CV42",
+        "subjparams": ""
+      },
+      {
+        "subj": "  Applied Hydraulics ",
+        "subcode": "17CV43",
+        "subjparams": ""
+      },
+      {
+        "subj": "Concrete Technology",
+        "subcode": "17CV44",
+        "subjparams": ""
+      },
+      {
+        "subj": "Basic Geotechnical Engineering ",
+        "subcode": "17CV45",
+        "subjparams": ""
+      },
+      {
+        "subj": "Advanced Surveying ",
+        "subcode": "17CV46",
+        "subjparams": ""
+      },
+      {
+        "subj": "Fluid Mechanics and Hydraulic Machines Laboratory",
+        "subcode": "17CVL47",
+        "subjparams": ""
+      },
+      {
+        "subj": "Engineering Geology Laboratory",
+        "subcode": "17CVL48",
+        "subjparams": ""
+      }
+    ]
+  }
+]
