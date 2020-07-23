@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17834",
+    "subcode": "17CV834",
+    "subname": "ADVANCED FOUNDATION DESIGN ",
+    "m1": "Module 1",
+    "m1desc": "General bearing capacity equation – Terzaghi’s, Brinch Hansen’s and Mayerhof’s analyses, bearing capacity of footings according to BIS, eccentrically loaded footing, footing on layered soil, Settlement of shallow Foundations: Immediate, consolidation, & differential settlements. Principles of design of footing, Proportioning of footings for equal settlement. ",
+    "m2": "Module 2",
+    "m2desc": "Design of combined footings by Rigid method, Combined footings (rectangular & trapezoidal), strap footings. Types of rafts, bearing capacity & settlements of raft foundation, Design of raft foundation – Conventional rigid method, Elastic methods, Coefficient of sub-grade reaction, IS code (IS-2950) procedure.",
+    "m3": "Module 3",
+    "m3desc": "Introduction Necessity of pile foundations, Classification, Load bearing capacity of single pile by Static formula, Dynamic formula, Pile load test and Penetration tests. Introduction, Pile groups, group action of piles in sand and clay, group efficiency of piles, settlement of piles, negative skin friction, laterally loaded piles and under reamed piles.",
+    "m4": "Module 4",
+    "m4desc": "Well Foundations: Introduction, Different shapes and characteristics of wells. Components of well foundation. Forces acting on well foundation. Sinking of wells. Causes and remedies of tilts and shifts. Drilled Piers & Caissons: Introduction, construction, advantages and disadvantages of drilled piers. Design of open, pneumatic and floating caissons. Advantages and disadvantages of floating caissons.",
+    "m5": "Module 5",
+    "m5desc": "Machine Foundations: Introduction, free and forced vibrations, Types of Machine foundations, degrees of freedom of a block foundation, general criteria for design of machine foundation, vibration analysis of a machine foundation, determination of natural frequency, vibration isolation and control.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]
