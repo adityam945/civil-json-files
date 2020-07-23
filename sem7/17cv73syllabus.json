@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1773",
+      "subcode": "17CV73",
+      "subname": "  HYDROLOGY AND IRRIGATION ENGINEERING  ",
+      "m1": "Module 1",
+      "m1desc": "Hydrology:\nIntroduction, Importance of hydrology, Global and Indian water availability, Practical application of hydrology, Hydrologic cycle (Horton’s) qualitative and engineering representation. Precipitation:\nDefinition, Forms and types of precipitation, measurement of rain fall using Symon’s and Syphon type of rain gauges, optimum number of rain gauge stations, consistency of rainfall data (double mass curve method), computation of mean rainfall, estimation of missing data, presentation of precipitation data, moving average curve, mass curve, rainfall hyetographs.",
+      "m2": "Module 2",
+      "m2desc": "Losses:Evaporation:\nIntroduction, Process, factors affecting evaporation, measurement using IS class-A Pan, estimation using empirical formulae (Meyer’s and Rohwer’s equations) Reservoir evaporation and control.Evapo-transpiration:\nIntroduction, Consumptive use, AET, PET, Factors affecting, Measurement, Estimation by Blaney-Criddle equation.Infiltration:\nIntroduction, factors affecting infiltration capacity, measurement by double ring infiltrometer, Horton’s infiltration equation, infiltration indices.",
+      "m3": "Module 3",
+      "m3desc": "Runoff:\nDefinition, concept of catchment, factors affecting runoff, rainfall – runoff relationship using regression analysis.\nHydrographs:\nDefinition, components of hydrograph, base flow separation, unit hydrograph, assumption, application and limitations, derivation from simple storm hydrographs, S curve and its computations, Conversion of UH of different durations.",
+      "m4": "Module 4",
+      "m4desc": "Irrigation:\nDefinition. Benefits and ill effects of irrigation. System of irrigation: surface and ground water, flow irrigation, lift irrigation, Bandhara irrigation.\nWater Requirements of Crops:\nDuty, delta and base period, relationship between them, factors affecting duty of water crops and crop seasons in India, irrigation efficiency, frequency of irrigation.",
+      "m5": "Module 5",
+      "m5desc": "Canals:\nTypes of canals. Alignment of canals. Definition of gross command area, cultural command area, intensity of irrigation, time factor, crop factor. Unlined and lined canals. Standard sections. Design of canals by Lacey's and Kennedy's method.\nReservoirs:\nDefinition, investigation for reservoir site, storage zones determination of storage capacity using mass curves, economical height of dam.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
