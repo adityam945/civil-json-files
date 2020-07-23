@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1771",
+      "subcode": "17CV71",
+      "subname": " MUNICIPAL AND INDUSTRIAL  WASTE WATER ENGINEERING ",
+      "m1": "Module 1",
+      "m1desc": "Introduction, need for sanitation, methods of sewage disposal, types of sewerage systems, dry weather flow, wet weather flow, factors effecting dry and wet weather flow on design of sewerage system, estimation of storm flow, time of concentration flow, material of sewers, shape of sewers, laying and testing of sewers, ventilation of sewers. low-cost waste treatment; oxidation pond, septic tank, Sewer appurtenances, manholes, catch basins, basic principles of house drainage, typical layout plan showing house drainage connections.",
+      "m2": "Module 2",
+      "m2desc": "Design of sewers, hydraulic formula for velocity, effects of variation on velocity, regime velocity, design of hydraulic elements for circular sewers for full flow and partial flow conditions, disposal of effluents by dilution, self purification phenomenon, oxygen sag curve, zones of purification, sewage farming, sewage sickness, numerical problems on disposal of effluents, Streeter-Phelps equation.",
+      "m3": "Module 3",
+      "m3desc": "Waste water characteristics, sampling, significance and techniques, physical, chemical and biological characteristics, flow diagram for municipal waste water treatment, unit operations; screens, grit chambers, skimming tanks, equalization tanks.Suspended growth and fixed film bio process, design of trickling filters, activated sludge process, sequential batch reactors, moving bed bio reactors, sludge digesters.",
+      "m4": "Module 4",
+      "m4desc": "Difference between domestic and industrial waste water, effect of effluent discharge on streams, methods of industrial waste water treatment; volume reduction, strength reduction, neutralization, equalisation and proportioning. Removal of organic, inorganic and colloidal solids, combined treatment methods; merits, demerits and feasibility, principles of discharge of raw, partially treated and completely treated wastes in to streams.",
+      "m5": "Module 5",
+      "m5desc": "Process flow chart, sources and characteristics of industrial waste water, treatment methods, reuse and recovery and disposal; cotton and textile industry, tanning industry, cane sugar and distilleries, dairy  industry, steel and cement industry, paper and pulp industry, pharmaceutical and food processing industry.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
