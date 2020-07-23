@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1782",
+    "subcode": "17CV82",
+    "subname": " DESIGN OF PRE STRESSED CONCRETE ELEMENTS ",
+    "m1": "Module 1",
+    "m1desc": "Introduction and Analysis of Members:\nConcept of Prestressing - Types of Prestressing - Advantages - Limitations –Prestressing systems - Anchoring devices - Materials - Mechanical Properties of high strength concrete - high strength steel - Stress-Strain curve for High strength concrete.Analysis of members at transfer - Stress concept - Comparison of behavior of reinforced concrete - prestressed concrete - Force concept - Load balancing concept - Kern point Pressure line.",
+    "m2": "Module 2",
+    "m2desc": "Losses in Prestress:\nLoss of Prestress due to Elastic shortening, Friction, Anchorage slip, Creep of concrete, Shrinkage of concrete and Relaxation of steel - Total Loss. Deflection and Crack Width Calculations of Deflection due to gravity loads - Deflection due to prestressing force -Total deflection - Limits of deflection - Limits of span-toeffective depth ratio -Calculation of Crack Width - Limits of crack width.",
+    "m3": "Module 3",
+    "m3desc": "Design of Sections for Flexure:\nAnalysis of members at ultimate strength - Preliminary Design - Final Design for Type 1members.",
+    "m4": "Module 4",
+    "m4desc": "Design for Shear:\nAnalysis for shear - Components of shear resistance - Modes of Failure - Limit State of collapse for shear - Design of transverse reinforcement.",
+    "m5": "Module 5",
+    "m5desc": "Composite Sections:\nTypes of composite construction - Analysis of composite sections - Deflection –Flexural and shear strength of composite sections.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]
