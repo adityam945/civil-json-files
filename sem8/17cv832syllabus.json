@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17832",
+    "subcode": "17CV832",
+    "subname": "HYDRAULIC STRUCTURES  ",
+    "m1": "Module 1",
+    "m1desc": "Gravity Dams:\nIntroduction, forces acting on dam, cause of failure, design principles, principal and shear stresses. Elementary profile and practical profile of a gravity dam. Drainage galleries.",
+    "m2": "Module 2",
+    "m2desc": "Earth Dams:\nIntroduction, causes of failure of earth dams, preliminary section, Determination of parametric line by Casagrande’s method. Estimation of seepage.",
+    "m3": "Module 3",
+    "m3desc": "Spillways:\nTypes, Design of Ogee spillway, Upstream and downstream profiles, Energy dissipation devices.Diversion Head works:\nDesign of aprons- Bligh’s and Koshla’s theory, Simple Problems.",
+    "m4": "Module 4",
+    "m4desc": "Cross Drainage Works:\nIntroduction, Type of C.D works, Design considerations for C.D works. Transition formula design of protection works, Design of only aqueduct.",
+    "m5": "Module 5",
+    "m5desc": "Canal Regulation Works:\nIntroduction, Function of a regulator.Canal falls:\nNecessity and types.Canal outlets:\nNecessity and types.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]
