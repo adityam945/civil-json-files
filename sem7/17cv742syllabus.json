@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17742",
+      "subcode": "17CV742",
+      "subname": "GROUND WATER & HYDRAULICS",
+      "m1": "Module 1",
+      "m1desc": "Introduction:\nImportance, vertical distribution of subsurface water, occurrence in different types of rocks and soils, definitions-aquifers, aquifuge, aquitard, aquiclude, confined and Unconfined aquifers.",
+      "m2": "Module 2",
+      "m2desc": "Fundamentals of Ground Water Flow:\nAquifer parameters, specific yield and specific retention, porosity, storage coefficient, derivation of the expression, Darcy’s law, hydraulic conductivity, coefficient of permeability and intrinsic permeability, transmissibility, permeability in isotropic, unisotropic layered soils, steady one dimensional flow: cases with recharge.",
+      "m3": "Module 3",
+      "m3desc": "Well Hydraulics:\nSteady Flow, Radial flow in confined and unconfined aquifers,pumping test Unsteady Flow, General equation, derivation; thesis method, Cooper and Jacob method, Chow’s method, solution of unsteady flow equations, leaky aquifers (only introduction), interference of well, image well theory.",
+      "m4": "Module 4",
+      "m4desc": "Ground Water Exploration:\nSeismic method, electrical resistively method, Geophysical techniques, electrical logging, radioactive logging, induction logging, sonic and fluid logging.",
+      "m5": "Module 5",
+      "m5desc": "Ground Water Development:\nTypes of wells, methods of construction, tube well design, dug wells, pumps for lifting water, working principles, power requirement, Conjunctive use, necessity, techniques and economics.Ground Water Recharge:\nArtificial recharge, groundwater runoff.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
