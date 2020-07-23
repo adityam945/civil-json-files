@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17833",
+    "subcode": "17CV833",
+    "subname": "  PAVEMENT DESIGN ",
+    "m1": "Module 1",
+    "m1desc": "Introduction:\nDesirable characteristics of pavement, Types and components, Difference between Highway pavement and Air field pavement, Design strategies of variables, Functions of sub grade, sub base, Base course, surface course, comparison between Rigid and flexible pavement.Fundamentals of Design of Pavements: Stresses and deflections, Principle, Assumptions and Limitations of Boussinesq’s theory, Burmister theory and problems on above.",
+    "m2": "Module 2",
+    "m2desc": "Design Factors:\nDesign wheel load, contact pressure, Design life, Traffic factors, climatic factors, Road geometry, Subgrade strength and drainage, ESWL concept Determination of ESWL by equivalent deflection criteria, Stress criteria, EWL concept, and problems on above.\nFlexible pavement Design:\nAssumptions, Mcleod Method, Kansas method, CBR method, IRC Method (old), CSA method using IRC-37-2001, problems on above.",
+    "m3": "Module 3",
+    "m3desc": "Flexible Pavement Failures, Maintenance and Evaluation:\nTypes of failures, Causes, Remedial/Maintenance measures in flexible pavements, Functional Evaluation by Visual inspection and unevenness measurements, Structural evaluation by Benkleman beam deflection method, Falling weight deflectometer, GPR method. Design factors for runway pavements, Design methods for Airfield pavement and problems on above .",
+    "m4": "Module 4",
+    "m4desc": "Stresses in Rigid Pavement:\nTypes of stress, Analysis of Stresses, Westergaard’s Analysis, Modified Westergaard equations, Critical stresses, Wheel load stresses, Warping stress, Frictional stress, combined stresses (using chart / equations), problems on above.Design of Rigid Pavement:\nDesign of CC pavement by IRC: 58-2002  for dual and Tandem axle load, Reinforcement in slabs, Design of Dowel bars, Design of Tie bars, Design factors for  Runway pavements, Design methods for airfield pavements, problems of the above.",
+    "m5": "Module 5",
+    "m5desc": "Rigid Pavement Failures, Maintenance and Evaluation:\nTypes of failures, causes, remedial/maintenance measures in rigid pavements, Functional evaluation by Visual inspection and unevenness measurements, wheel load and its repetition, properties of subgrade, properties of concrete.  External conditions, joints, Reinforcement, Requirements of joints, Types of joints, Expansion joint, contraction joint, warping joint, construction joint, longitudinal joint, Design of joints.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]
