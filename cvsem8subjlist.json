@@ -11,33 +11,33 @@
       {
         "subj": "QUANTITY SURVEYING AND CONTRACTS MANAGEMENT  ",
         "subcode": "17CV81",
-        "subjparams": ""
+        "subjparams": "sem8/17cv81syllabus.json"
       },
       {
         "subj": "DESIGN OF PRE STRESSED CONCRETE ELEMENTS ",
         "subcode": "17CV82",
-        "subjparams": ""
+        "subjparams": "sem8/17cv82syllabus.json"
       },
 
       {
         "subj": "EARTHQUAKE ENGINEERING ",
         "subcode": "17CV831",
-        "subjparams": ""
+        "subjparams": "sem8/17cv831syllabus.json"
       },
       {
         "subj": "HYDRAULIC STRUCTURES  ",
         "subcode": "17CV832",
-        "subjparams": ""
+        "subjparams": "sem8/17cv832syllabus.json"
       },
       {
         "subj": " PAVEMENT DESIGN ",
         "subcode": "17CV833",
-        "subjparams": ""
+        "subjparams": "sem8/17cv833syllabus.json"
       },
       {
         "subj": "ADVANCED FOUNDATION DESIGN  ",
         "subcode": "17CV834",
-        "subjparams": ""
+        "subjparams": "sem8/17cv834syllabus.json"
       }
     ]
   }

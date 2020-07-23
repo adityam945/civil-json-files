@@ -11,32 +11,32 @@
       {
         "subj": "Engineering Mathematics-IV",
         "subcode": "17MAT41",
-        "subjparams": ""
+        "subjparams": "sem4/17mat41syllabus.json"
       },
       {
         "subj": "Analysis of Determinate Structures",
         "subcode": "17CV42",
-        "subjparams": ""
+        "subjparams": "sem4/17cv42syllabus.json"
       },
       {
         "subj": "  Applied Hydraulics ",
         "subcode": "17CV43",
-        "subjparams": ""
+        "subjparams": "sem4/17cv43syllabus.json"
       },
       {
         "subj": "Concrete Technology",
         "subcode": "17CV44",
-        "subjparams": ""
+        "subjparams": "sem4/17cv44syllabus.json"
       },
       {
         "subj": "Basic Geotechnical Engineering ",
         "subcode": "17CV45",
-        "subjparams": ""
+        "subjparams": "sem4/17cv45syllabus.json"
       },
       {
         "subj": "Advanced Surveying ",
         "subcode": "17CV46",
-        "subjparams": ""
+        "subjparams": "sem4/17cv46syllabus.json"
       },
       {
         "subj": "Fluid Mechanics and Hydraulic Machines Laboratory",

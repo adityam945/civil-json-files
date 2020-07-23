@@ -12,7 +12,7 @@
       {
         "subj": "Engineering Mathematics-III",
         "subcode": "17MAT31",
-        "subjparams": ""
+        "subjparams": "sem3/17mat31syllabus.json"
       },
       {
         "subj": "Strength of Materials",

@@ -11,62 +11,62 @@
       {
         "subj": "DESIGN OF RC STRUCTURAL ELEMENTS",
         "subcode": "17CV51",
-        "subjparams": ""
+        "subjparams": "sem5/17cv51syllabus.json"
       },
       {
         "subj": "ANALYSIS OF INDETERMINATE STRUCTURES",
         "subcode": "17CV52",
-        "subjparams": ""
+        "subjparams": "sem5/17cv52syllabus.json"
       },
       {
         "subj": "APPLIED GEOTECHNICAL ENGINEERING",
         "subcode": "17CV53",
-        "subjparams": ""
+        "subjparams": "sem5/17cv53syllabus.json"
       },
       {
         "subj": "COMPUTER AIDED BUILDING PLANNING AND DRAWING ",
         "subcode": "17CV54",
-        "subjparams": ""
+        "subjparams": "sem5/17cv54syllabus.json"
       },
       {
         "subj": "AIR POLLUTION AND CONTROL",
         "subcode": "17CV551",
-        "subjparams": ""
+        "subjparams": "sem5/17cv551syllabus.json"
       },
       {
         "subj": "RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS",
         "subcode": "17CV552",
-        "subjparams": ""
+        "subjparams": "sem5/17cv552syllabus.json"
       },
       {
         "subj": "MASONRY STRUCTURES ",
         "subcode": "17CV553",
-        "subjparams": ""
+        "subjparams": "sem5/17cv553syllabus.json"
       },
       {
         "subj": "THEORY OF  ELASTICITY",
         "subcode": "17CV554",
-        "subjparams": ""
+        "subjparams": "sem5/17cv554syllabus.json"
       },
       {
         "subj": "TAFFIC ENGINEERING",
         "subcode": "17CV561",
-        "subjparams": ""
+        "subjparams": "sem5/17cv561syllabus.json"
       },
       {
         "subj": "SUSTAINABILITY CONCEPTS IN ENGINEERING",
         "subcode": "17CV562",
-        "subjparams": ""
+        "subjparams": "sem5/17cv562syllabus.json"
       },
       {
         "subj": "REMOTE SENSING AND GIS",
         "subcode": "17CV563",
-        "subjparams": ""
+        "subjparams": "sem5/17cv563syllabus.json"
       },
       {
         "subj": "OCCUPATIONAL HEALTH AND SAFETY",
         "subcode": "17CV564",
-        "subjparams": ""
+        "subjparams": "sem5/17cv564syllabus.json"
       },
       {
         "subj": "GEOTECHNICAL ENGINEERING LAB",

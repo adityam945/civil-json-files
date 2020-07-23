@@ -11,68 +11,68 @@
       {
         "subj": "MUNICIPAL AND INDUSTRIAL  WASTE WATER ENGINEERING ",
         "subcode": "17CV71",
-        "subjparams": ""
+        "subjparams": "sem7/17cv71syllabus.json"
       },
       {
         "subj": "DESIGN OF RCC AND STEEL STRUCTURES ",
         "subcode": "17CV72",
-        "subjparams": ""
+        "subjparams": "sem7/17cv72syllabus.json"
       },
       {
         "subj": "HYDROLOGY AND IRRIGATION ENGINEERING ",
         "subcode": "17CV73",
-        "subjparams": ""
+        "subjparams": "sem7/17cv73syllabus.json"
       },
 
       {
         "subj": "DESIGN OF BRIDGES ",
         "subcode": "17CV741",
-        "subjparams": ""
+        "subjparams": "sem7/17cv741syllabus.json"
       },
       {
         "subj": "GROUND WATER & HYDRAULICS ",
         "subcode": "17CV742",
-        "subjparams": ""
+        "subjparams": "sem7/17cv742syllabus.json"
       },
       {
         "subj": "DESIGN CONCEPT OF BUILDING SERVICES",
         "subcode": "17CV743",
-        "subjparams": ""
+        "subjparams": "sem7/17cv743syllabus.json"
       },
       {
         "subj": "STRUCTURAL DYNAMICS ",
         "subcode": "17CV744",
-        "subjparams": ""
+        "subjparams": "sem7/17cv744syllabus.json"
       },
       {
         "subj": "URBAN TRANSPORTATION AND PLANNING",
         "subcode": "17CV751",
-        "subjparams": ""
+        "subjparams": "sem7/17cv751syllabus.json"
       },
       {
         "subj": "PREFABRICATED STRUCTURES ",
         "subcode": "17CV752",
-        "subjparams": ""
+        "subjparams": "sem7/17cv752syllabus.json"
       },
       {
         "subj": "REHABILITATION AND RETROFITTING OF STRUCTURES ",
         "subcode": "17CV753",
-        "subjparams": ""
+        "subjparams": "sem7/17cv753syllabus.json"
       },
       {
         "subj": "REINFORCED EARTH STRUCTURES ",
         "subcode": "17CV754",
-        "subjparams": ""
+        "subjparams": "sem7/17cv754syllabus.json"
       },
       {
         "subj": "ENVIRONMENTAL ENGINEERING LABORATORY ",
         "subcode": "17CVL76",
-        "subjparams": ""
+        "subjparams": "sem7/17cv71syllabus.json"
       },
       {
         "subj": "COMPUTER AIDED DETAILING OF STRUCTURES ",
         "subcode": "17CVL77",
-        "subjparams": ""
+        "subjparams": "sem7/17cv71syllabus.json"
       }
     ]
   }
