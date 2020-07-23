@@ -1,0 +1,83 @@
+[
+  {
+    "semno": "Semester 6",
+    "branchname": "CIVIL ENGINEERING",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/civil-json-files/",
+
+    "subjdata": [
+      {
+        "subj": "CONSTRUCTION MANAGEMENT AND ENTREPRENEURSHIP",
+        "subcode": "17CV61",
+        "subjparams": ""
+      },
+      {
+        "subj": "DESIGN OF STEEL STRUCTURAL ELEMENTS",
+        "subcode": "17CV62",
+        "subjparams": ""
+      },
+      {
+        "subj": "HIGHWAY ENGINEERING",
+        "subcode": "17CV63",
+        "subjparams": ""
+      },
+      {
+        "subj": "WATER SUPPLY  AND TREATMENT ENGINEERING",
+        "subcode": "17CV64",
+        "subjparams": ""
+      },
+      {
+        "subj": "SOLID WASTE MANAGEMENT",
+        "subcode": "17CV651",
+        "subjparams": ""
+      },
+      {
+        "subj": "MATRIX METHOD OF  STRUCTURAL ANALYSIS",
+        "subcode": "17CV652",
+        "subjparams": ""
+      },
+      {
+        "subj": "ALTERNATIVE BUILDING MATERIALS",
+        "subcode": "17CV653",
+        "subjparams": ""
+      },
+      {
+        "subj": "GROUND IMPROVEMENT TECHNIQUES",
+        "subcode": "17CV654",
+        "subjparams": ""
+      },
+      {
+        "subj": "WATER RESOURCES MANAGEMENT",
+        "subcode": "17CV661",
+        "subjparams": ""
+      },
+      {
+        "subj": "ENVIRONMENTAL PROTECTION AND MANAGEMENT",
+        "subcode": "17CV662",
+        "subjparams": ""
+      },
+      {
+        "subj": "NUMERICAL METHODS AND APPLICATIONS",
+        "subcode": "17CV663",
+        "subjparams": ""
+      },
+      {
+        "subj": "FINITE ELEMENT METHOD",
+        "subcode": "17CV664",
+        "subjparams": ""
+      },
+      {
+        "subj": "SOFTWARE APPLICATION LAB",
+        "subcode": "17CVL67",
+        "subjparams": ""
+      },
+      {
+        "subj": "EXTENSIVE SURVEY PROJECT /CAMP",
+        "subcode": "17CVL68",
+        "subjparams": ""
+      }
+    ]
+  }
+]
