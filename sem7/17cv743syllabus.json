@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17743",
+      "subcode": "17CV743",
+      "subname": "DESIGN CONCEPT OF BUILDING SERVICES",
+      "m1": "Module 1",
+      "m1desc": "Water Supply, Drainage and Solid Waste Disposal:\nWater requirements for different types of buildings, simple method of removal of impurities, water saving practices and their potential Service connection from mains, sump and storage tank, types and sizes of pipes, special installation in multistoried buildings. Material, types of fixtures and fitting for a contemporary bathroom– taps – quarter turn, half turn, ceramic, foam flow etc, hot water mixer, hand shower Rainwater harvesting to include roof top harvesting, type of spouts, sizes of rainwater pipes and typical detail of a water harvesting pit.Principles of drainage, surface drainage, shape and sizes of drains and sewers, storm water over flow chambers, methods of laying and construction of sewers.Approaches for solid waste management, Solid wastes collection and removal from buildings. On-site processing and disposal methods.",
+      "m2": "Module 2",
+      "m2desc": "Heat Ventilation and Air Conditioning (HVAC):\nBehaviour of heat propagation, thermal insulating materials and their co-efficient of thermal conductivity. General methods of thermal insulation: Thermal insulation of roofs, exposed walls. Ventilation: Definition and necessity, system of ventilation. Principles of air conditioning, Air cooling, Different systems of ducting and distribution, Essentials of air-conditioning system.",
+      "m3": "Module 3",
+      "m3desc": "Electrical and Fire Fighting Services:\nElectrical systems, Basics of electricity, single/Three phase supply, protective devices in electrical installation, Earthing for safety, Types of earthing, ISI Specifications. Electrical installations in buildings,Types of wires,Wiring systems and their choice,planning electrical wiring for building, Main and distribution boards,Principles of illumination,Classification of buildings based on occupancy, causes of fire and spread of fire, Standard fire, Fire fighting, protection and fire resistance, Firefighting equipment and different methods of fighting fire., means of escape, alarms, etc., Combustibility of materials, Structural elements and fire resistance, Fire escape routes and elements, planning and design. Wet risers, dry risers, sprinklers, heat detector, smoke detectors, fire dampers, fire doors, etc. Provisions of NBC.",
+      "m4": "Module 4",
+      "m4desc": "Plumbing and Fire Fighting Layout of Simple Buildings:\nApplication of above studies in preparing layout and details - Plumbing layout of residential and public buildings, Fire fighting layout, Reflected ceiling plan of smoke detectors / sprinklers, etc.",
+      "m5": "Module 5",
+      "m5desc": "Engineering Services:\nengineering services in a building as a system, Lifts, escalators, cold and hot water systems, waste water systems and electrical systems.  Pumps and Machineries: Reciprocating, Centrifugal, Deep well, Submersible, Automatic pumps, Sewerage pumps, Compressors, Vacuum pump – their selection, installation and maintenance – Hot water boilers – Classification and types of lifts, lift.codes, rules structural provision: escalators, their uses, types and sizes, safety norms to be adopted – Social features required for physically handicapped and elderly, DC/AC motors, Generators.Building Maintenance:\nPreventive and protective maintenance, Scheduled and contingency maintenance planning, M.I.S. for building maintenance. Maintenance standards. Economic maintenance decisions.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
