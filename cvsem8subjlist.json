@@ -1,0 +1,45 @@
+[
+  {
+    "semno": "Semester 8",
+    "branchname": "CIVIL ENGINEERING",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/civil-json-files/",
+
+    "subjdata": [
+      {
+        "subj": "QUANTITY SURVEYING AND CONTRACTS MANAGEMENT  ",
+        "subcode": "17CV81",
+        "subjparams": ""
+      },
+      {
+        "subj": "DESIGN OF PRE STRESSED CONCRETE ELEMENTS ",
+        "subcode": "17CV82",
+        "subjparams": ""
+      },
+
+      {
+        "subj": "EARTHQUAKE ENGINEERING ",
+        "subcode": "17CV831",
+        "subjparams": ""
+      },
+      {
+        "subj": "HYDRAULIC STRUCTURES  ",
+        "subcode": "17CV832",
+        "subjparams": ""
+      },
+      {
+        "subj": " PAVEMENT DESIGN ",
+        "subcode": "17CV833",
+        "subjparams": ""
+      },
+      {
+        "subj": "ADVANCED FOUNDATION DESIGN  ",
+        "subcode": "17CV834",
+        "subjparams": ""
+      }
+    ]
+  }
+]
