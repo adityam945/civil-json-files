@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17744",
+      "subcode": "17CV744",
+      "subname": " STRUCTURAL DYNAMICS ",
+      "m1": "Module 1",
+      "m1desc": "Introduction: Introduction to structural dynamics, brief history of vibration, Basic definitions, vibration of SDOF (Single Degree of Freedom) systems, undamped, Damped, Free vibrations, equivalent viscous damping, Logarithmic decrement.",
+      "m2": "Module 2",
+      "m2desc": "Forced vibrations of SDOF system, Response of undamped and damped system subjected to harmonic loading, response to SDOF subject to harmonic base excitation, Duhamel’s integral, response to general system of loading, dynamic load factor, response spectrum.",
+      "m3": "Module 3",
+      "m3desc": "Free vibration of MDOF (Multi Degree Freedom System), Natural frequencies, Normal modes, Orthogonality of normal modes, Eigen Values Shear buildings modeled as MDOF systems. Free vibrations, Natural frequencies.",
+      "m4": "Module 4",
+      "m4desc": "Forced vibrations, Motion of shear buildings, Model Superposition Method, Response to shear buildings, Base motion, Harmonic fixed excitation.Damped motion of shear buildings, Equations for damped shear buildings, uncoupled damped equations, Conditions for damping uncoupled. ",
+      "m5": "Modukle 5",
+      "m5desc": "Dynamic analysis of base stuffiness matrices, Lumped mass and consistent mass formulation, Equations of motion.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
