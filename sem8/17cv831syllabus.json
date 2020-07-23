@@ -1,0 +1,28 @@
+[
+  {
+    "id": "17831",
+    "subcode": "17CV831",
+    "subname": "  EARTHQUAKE ENGINEERING  ",
+    "m1": "Module 1",
+    "m1desc": "Engineering Seismology:\nTerminologies (Focus, Focal depth, Epicenter, etc.); Causes of Earthquakes; Theory of plate tectonics; Types and characteristics faults; Classification of Earthquakes; Major past earthquakes and their consequences; Types and characteristics of seismic waves; Magnitude and intensity of earthquakes; local site effects; Earthquake ground motion characteristics: Amplitude, frequency and duration; Seismic zoning map of India; (Problems on computation of wave velocities. Location of epicenter, Magnitude of earthquake).",
+    "m2": "Module 2",
+    "m2desc": "Response Spectrum:\nBasics of structural dynamics; Free and forced vibration of SDOF system; Effect of frequency of input motion and Resonance; Numerical evaluation of response of SDOF system (Linear acceleration method), Earthquake Response spectrum:  Definition, construction, Characteristics and application; Elastic design spectrum.",
+    "m3": "Module 3",
+    "m3desc": "Seismic Performance of Buildings and Over View of IS-1893 (Part-1):\nTypes of damages to building observed during past earthquakes; Plan irregularities; mass irregularity; stiffness irregularity; Concept of soft and weak storey; Torsional irregularity and its consequences; configuration problems; continuous load path; Architectural aspects of earthquake resistant buildings; Lateral load resistant systems. Seismic design philosophy; Structural modeling; Code based seismic design methods.",
+    "m4": "Module 4",
+    "m4desc": "Determination of Design Lateral Forces:\nEquivalent lateral force procedure and dynamic analysis procedure. Step by step procedures for seismic analysis of RC buildings using Equivalent static lateral force method and response spectrum methods (maximum of 4 storeys and without infill walls).",
+    "m5": "Module 5",
+    "m5desc": "Earthquake Resistant Analysis and Design of RC Buildings:\nTypical failures of RC frame structures, Ductility in Reinforced Concrete, Design of Ductile Reinforced Concrete Beams, Seismic Design of Ductile Reinforced Concrete column,  Concept of weak beam-strong column, Detailing of Beam-Column Joints to enhance ductility, Detailing as per IS-13920. Retrofitting of RC buildings.\nEarthquake Resistant Design of Masonry Buildings:\nPerformance of Unreinforced, Reinforced, Infill Masonry Walls, Box Action, Lintel and sill Bands, elastic properties of structural masonry, lateral load analysis, Recommendations for Improving performance of Masonry Buildings during earthquakes; Retrofitting of Masonry buildings.",
+    "descname": "Prescribed text books",
+    "descdata": "",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+  }
+]
