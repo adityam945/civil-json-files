@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17754",
+      "subcode": "17CV754",
+      "subname": "REINFORCED EARTH STRUCTURES",
+      "m1": "Module 1",
+      "m1desc": "Basics of Reinforced Earth Construction:\nDefinition, Historical Background, Components, Mechanism and Concept, Advantages and Disadvantage of reinforced earth Construction, Sandwich technique for clayey soil.Geosynthetics and Their Functions:\nHistorical developments, Recent  developments, manufacturing process woven &non-woven, Raw materials –Classification based on materials type – Metallic and Non-metallic, Natural and Man-made, Geosynthetics.Properties and Tests on Materials:\nProperties – Physical, Chemical, Mechanical, Hydraulic, Endurance and Degradation requirements, Testing & Evaluation of properties.",
+      "m2": "Module 2",
+      "m2desc": "Design of Reinforced Earth Retaining Walls:\nConcept of Reinforced earth retaining wall, Internal and external stability, Selection of materials, Typical design problems .Soil Nailing Techniques:\nConcept, Advantages & limitations of soil nailing techniques, comparison of soil nailing with reinforced soil, methods of soil nailing, Construction sequence, Components of system, Design aspects and precautions to be taken.",
+      "m3": "Module 3",
+      "m3desc": "Design of Reinforced Earth Foundations:\nModes of failure of foundation, Determination of force induced in reinforcement ties – Location of failure surface, tension failure and pull out resistance, length of tie and its curtailment, Bearing capacity improvement in soft soils, General guidelines.",
+      "m4": "Module 4",
+      "m4desc": "Geosynthetics for Roads and  Slopes:\nRoads - Applications to Temporary and Permanent roads, Role of Geosynthetic in enhancing properties of road, control of mud pumping, Enhancing properties of subgrade, Design requirements Slopes – Causes for slope failure, Improvement of slope stability with Geosynthetic, Drainage requirements, Construction technique. Simple Numerical Stability Checking Problems on Reinforced Slopes.",
+      "m5": "Module 5",
+      "m5desc": "GEOSYNTHETICS - FILTER, DRAIN AND LANDFILLS:\nFilter & Drain – Conventional granular filter design criteria, Geosynthetic filter design requirements, Drain and filter properties, Design criteria – soil retention, Geosynthetic permeability, anticlogging, survivability and durability (No Numerical Problems).Landfills – Typical design of Landfills – Landfill liner & cover, EPA Guidelines, Barrier walls for existing landfills and abandoned dumps (No Numerical Problems).",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
