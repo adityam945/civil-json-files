@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17751",
+      "subcode": "17CV751",
+      "subname": "  URBAN TRANSPORTATION AND PLANNING  ",
+      "m1": "Module 1",
+      "m1desc": "Urban transport planning:\nUrbanization, urban class groups, transportation problems and identification, impacts of transportation, urban transport system planning process, modeling techniques in planning. Urban mass transportation systems: urban transit problems, travel demand, types of transit systems, public, private, para-transit transport, mass and rapid transit systems, BRTS and Metro rails, capacity, merits and comparison of systems, coordination, types of coordination.",
+      "m2": "Module 2",
+      "m2desc": "Data Collection And Inventories:\nCollection of data – Organisation of surveys and Analysis, Study Area, Zoning, Types and Sources of Data, Road Side Interviews, Home Interview Surveys, Commercial Vehicle Surveys, Sampling Techniques, Expansion Factors, Accuracy Checks, Use of Secondary Sources, Economic data – Income – Population – Employment – Vehicle Owner Ship.",
+      "m3": "Module 3",
+      "m3desc": "Trip Generation & Distribution:\nUTPS Approach, Trip Generation Analysis: Zonal Models, Category Analysis, Household Models, Trip Attraction models, Commercial Trip Rates; Trip Distribution by Growth Factor Methods. Problems on above.",
+      "m4": "Module 4",
+      "m4desc": "Trip Distribution: Gravity Models, Opportunity Models, Time Function Iteration Models. Travel demand modeling: gravity model, opportunity models, Desire line diagram. Modal split analysis. Problems on above.",
+      "m5": "Module 5",
+      "m5desc": "Traffic Assignment:\nDiversion Curves; Basic Elements of Transport Networks, Coding, Route Properties, Path Building Criteria, Skimming Tree, All-or-Nothing Assignment, Capacity Restraint Techniques, Reallocation of Assigned Volumes, Equilibrium Assignment. Introduction to land use planning models, land use and transportation interaction.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
