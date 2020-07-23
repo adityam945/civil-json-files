@@ -1,0 +1,22 @@
+[
+    {
+      "id": "1772",
+      "subcode": "17CV72",
+      "subname": " DESIGN OF RCC AND STEEL STRUCTURES ",
+      "m1": "Module 1",
+      "m1desc": "Footings:\nDesign of rectangular slab type combined footing.Retaining Walls: Design of cantilever Retaining wall and counter fort retaining wall. Water Tanks:\nWater Tanks: Design of circular water tanks resting on ground (Rigid and Flexible base). Design of rectangular water tanks resting on ground. As per IS: 3370 (Part IV).Design of portal frames with fixed and hinged based supports.",
+      "m2": "Module 2",
+      "m2desc": "Roof Truss:\n Design of roof truss for different cases of loading, forces in members to given.Plate Girder:\n  Design of welded plate girder with intermediate stiffener, bearing stiffener and necessary checks.Gantry Girder:\n Design of gantry girder with all necessary checks.",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
