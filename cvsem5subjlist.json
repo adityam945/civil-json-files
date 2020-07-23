@@ -1,0 +1,83 @@
+[
+  {
+    "semno": "Semester 5",
+    "branchname": "CIVIL ENGINEERING",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/civil-json-files/",
+
+    "subjdata": [
+      {
+        "subj": "DESIGN OF RC STRUCTURAL ELEMENTS",
+        "subcode": "17CV51",
+        "subjparams": ""
+      },
+      {
+        "subj": "ANALYSIS OF INDETERMINATE STRUCTURES",
+        "subcode": "17CV52",
+        "subjparams": ""
+      },
+      {
+        "subj": "APPLIED GEOTECHNICAL ENGINEERING",
+        "subcode": "17CV53",
+        "subjparams": ""
+      },
+      {
+        "subj": "COMPUTER AIDED BUILDING PLANNING AND DRAWING ",
+        "subcode": "17CV54",
+        "subjparams": ""
+      },
+      {
+        "subj": "AIR POLLUTION AND CONTROL",
+        "subcode": "17CV551",
+        "subjparams": ""
+      },
+      {
+        "subj": "RAILWAYS, HARBOUR, TUNNELING AND AIRPORTS",
+        "subcode": "17CV552",
+        "subjparams": ""
+      },
+      {
+        "subj": "MASONRY STRUCTURES ",
+        "subcode": "17CV553",
+        "subjparams": ""
+      },
+      {
+        "subj": "THEORY OF  ELASTICITY",
+        "subcode": "17CV554",
+        "subjparams": ""
+      },
+      {
+        "subj": "TAFFIC ENGINEERING",
+        "subcode": "17CV561",
+        "subjparams": ""
+      },
+      {
+        "subj": "SUSTAINABILITY CONCEPTS IN ENGINEERING",
+        "subcode": "17CV562",
+        "subjparams": ""
+      },
+      {
+        "subj": "REMOTE SENSING AND GIS",
+        "subcode": "17CV563",
+        "subjparams": ""
+      },
+      {
+        "subj": "OCCUPATIONAL HEALTH AND SAFETY",
+        "subcode": "17CV564",
+        "subjparams": ""
+      },
+      {
+        "subj": "GEOTECHNICAL ENGINEERING LAB",
+        "subcode": "17CVL57",
+        "subjparams": ""
+      },
+      {
+        "subj": "CONCRETE AND HIGHWAY MATERIALS LABORATORY ",
+        "subcode": "17CVL58",
+        "subjparams": ""
+      }
+    ]
+  }
+]
