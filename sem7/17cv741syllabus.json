@@ -1,0 +1,28 @@
+[
+    {
+      "id": "17741",
+      "subcode": "17CV741",
+      "subname": " DESIGN OF BRIDGES ",
+      "m1": "Module 1",
+      "m1desc": "Introduction to bridges, classification, computation of discharge, linear waterway, economic span, afflux, scour depth.Design loads for bridges, introduction to I.R.C. loading standards, Load Distribution Theory, Bridge slabs, Effective width, Introduction to methods as per I.R.C.",
+      "m2": "Module 2",
+      "m2desc": "Design of Slab Bridges: Straight and skew slab bridges.",
+      "m3": "Module 3",
+      "m3desc": "Design of T beam bridges(up to three girder only):\nProportioning of components, analysis of slab using IRC Class AA tracked vehicle, structural design of slab, analysis of cross girder for dead load & IRC Class AA tracked vehicle, structural design of cross girder, analysis of main girder using Courbon’s method, calculation of dead load BM and SF, calculation of live load B M & S F using IRC Class AA Tracked vehicle. Structural design of main girder.",
+      "m4": "Module 4",
+      "m4desc": "Other Bridges:\nDesign of Box culvert (Single vent only).Design of Pipe culverts.",
+      "m5": "Module 5",
+      "m5desc": "Substructures - Design of Piers and abutments.Introduction to Bridge bearings, Hinges and Expansion joints.(No design).",
+      "descname": "Prescribed text books",
+      "descdata": "",
+      "notesurl": "",
+      "notesscreenname": "NotesListFile",
+      "notesscreenparams": "",
+      "qpscreentype": "QPaperListFile",
+      "qpurl": "",
+      "qpscreenparams": "",
+      "qbscreentype": "QBankListFile",
+      "qburl": "",
+      "qbscreenparams": ""
+    }
+  ]
